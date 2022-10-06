@@ -49,15 +49,16 @@ kwic_pro <- kwic(sp_p2022_tokens, pattern=word, window=1, valuetype="fixed") %>%
   as_tibble()
 ```
 
+
 Let's show the Top-5 for the C2022 corpus:
 ```{r}
 kwic_con %>%
- count(pre) %>%
+  count(pre) %>%
   arrange(desc(n)) %>%
   head(n=5)
 
 kwic_con %>%
- count(post) %>%
+  count(post) %>%
   arrange(desc(n)) %>%
   head(n=5) 
 ```
@@ -295,6 +296,15 @@ kwic_con_sent.df
 
 
 # TO DELETE
+
+
+```{r}
+kwic(c2022_merged_toks, pattern="klimaanbeter", window=1, valuetype="regex")
+kwic(c2022_sentences, pattern="klimabank", window=1, valuetype="regex")
+
+```
+
+
 ## 1.2 Apply to all Glossary Terms
 Now, we will retrieve the collocations for each compound word. The collocations are then saved to a data frame, one for each corpus, and exported to a csv file, such that we can also use the data in Python
 ```{r}
