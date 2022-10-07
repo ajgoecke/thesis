@@ -53,12 +53,12 @@ kwic_pro <- kwic(sp_p2022_tokens, pattern=word, window=1, valuetype="fixed") %>%
 Let's show the Top-5 for the C2022 corpus:
 ```{r}
 kwic_con %>%
-  count(pre) %>%
+  dplyr::count(pre) %>%
   arrange(desc(n)) %>%
   head(n=5)
 
 kwic_con %>%
-  count(post) %>%
+  dplyr:: count(post) %>%
   arrange(desc(n)) %>%
   head(n=5) 
 ```
@@ -66,12 +66,12 @@ kwic_con %>%
 And the Top-5 for the P2022 corpus:
 ```{r}
 kwic_pro %>%
- count(pre) %>%
+ dplyr::count(pre) %>%
   arrange(desc(n)) %>%
   head(n=5)
 
 kwic_pro %>%
- count(post) %>%
+ dplyr::count(post) %>%
   arrange(desc(n)) %>%
   head(n=5)
 ```
@@ -90,18 +90,17 @@ for (word in compounds){
   # get collocations
   kwic_pro <- kwic(sp_p2022_tokens, pattern=word, window=1, valuetype="fixed") %>%
     as_tibble()
-  #keyword <- kwic_pro$keyword[[1]]
   keyword <- word 
   
   # retrieve top5 preceding collocations
   pro_pre <- kwic_pro %>%
-    count(pre) %>%
+    dplyr::count(pre) %>%
     arrange(desc(n)) %>%
     head(n=5)
 
   # retrieve top5 following collocations
   pro_post <- kwic_pro %>%
-    count(post) %>%
+    dplyr::count(post) %>%
     arrange(desc(n)) %>%
     head(n=5)
 
@@ -149,13 +148,13 @@ for (word in compounds){
   
   # retrieve top5 preceding collocations
   con_pre <- kwic_con %>%
-    count(pre) %>%
+    dplyr::count(pre) %>%
     arrange(desc(n)) %>%
     head(n=5)
 
   # retrieve top5 following collocations
   con_post <- kwic_con %>%
-    count(post) %>%
+    dplyr::count(post) %>%
     arrange(desc(n)) %>%
     head(n=5)
 
@@ -199,6 +198,7 @@ c2022_tokens <- tokens(contra2022, remove_punct = FALSE, remove_symbols = TRUE,
                   remove_numbers = TRUE, remove_url = TRUE, remove_separators = TRUE)
 ```
 
+
 To these tokens, we apply a normalization step where we remove hyphens within words, such as "Klima-Skeptiker" to convert it to "Klimaskeptiker". 
 ```{r}
 # remove hyphens from tokens
@@ -208,26 +208,26 @@ To these tokens, we apply a normalization step where we remove hyphens within wo
 
 # replace multi-token sequences with a "compound" token 
 #toks_comp <- tokens_compound(p2022_toks_cleaned, phrase("*-*"), concatenator ="")
-toks_com <- tokens_compound(p2022_tokens, phrase("*-*"), concatenator ="")
+toks_comp_p <- tokens_compound(p2022_tokens, phrase("*-*"), concatenator ="")
 
 
 # get tokens containing the hyphen
-toks_hyphenated <- grep("\\w+-\\w+", types(toks_comp), value = TRUE)
+toks_hyphenated_p <- grep("\\w+-\\w+", types(toks_comp_p), value = TRUE)
 
 # replace the hyphenated tokens by versions without hyphen
-p2022_toks_cleaned <- tokens_replace(toks_comp, toks_hyphenated, gsub("-", "", toks_hyphenated))
+p2022_toks_cleaned <- tokens_replace(toks_comp_p, toks_hyphenated_p, gsub("-", "", toks_hyphenated_p))
 
 # convert to tokens
 #c2022_toks_cleaned <- as.tokens(c2022_tokens)
 
 #toks_comp <- tokens_compound(c2022_toks_cleaned, phrase("*-*"), concatenator ="")
-toks_comp <- tokens_compound(c2022_tokens, phrase("*-*"), concatenator ="")
+toks_comp_c <- tokens_compound(c2022_tokens, phrase("*-*"), concatenator ="")
 
 # get tokens containing the hyphen
-toks_hyphenated <- grep("\\w+-\\w+", types(toks_comp), value = TRUE)
+toks_hyphenated_c <- grep("\\w+-\\w+", types(toks_comp_c), value = TRUE)
 
 # replace the hyphenated tokens by versions without hyphen
-c2022_toks_cleaned <- tokens_replace(toks_comp, toks_hyphenated, gsub("-", "", toks_hyphenated))
+c2022_toks_cleaned <- tokens_replace(toks_comp_c, toks_hyphenated_c, gsub("-", "", toks_hyphenated_c))
 
 # merge tokens back into corpus object 
 p2022_merged_toks <- corpus(sapply(p2022_toks_cleaned, paste, collapse = " "))
@@ -253,41 +253,43 @@ c2022_sentences <- tokens(c2022_merged_toks, remove_punct = FALSE, remove_symbol
 
 ### DO FOR p2022 ####
 kwic_pro_sent.df <- data.frame(matrix(ncol = 7, nrow = 0))
-kwiclist_sent <- list()
+kwiclist_sent_pro <- list()
 
 # for each compound word
 for (word in compounds)
 {
   # retrieve sentences before/after keyword 
   context_pro_sent <- kwic(p2022_sentences, word, valuetype="regex", window=5)
-  kwiclist_sent[[word]] <- context_pro_sent # save to list 
+  kwiclist_sent_pro[[word]] <- context_pro_sent # save to list 
 }
 
-kwic_pro_sent.df = do.call(rbind, kwiclist_sent) # save to final data frame 
+kwic_pro_sent.df = do.call(rbind, kwiclist_sent_pro) # save to final data frame 
 
 ### DO FOR c2022 ###
 kwic_con_sent.df <- data.frame(matrix(ncol = 7, nrow = 0)) 
-kwiclist_sent <- list()
+kwiclist_sent_con <- list()
 
 # for each compound word
 for (word in compounds)
 {
   # retrieve sentences before/after keyword 
   context_con_sent <- kwic(c2022_sentences, word, valuetype="regex", window=5) 
-  kwiclist_sent[[word]] <- context_con_sent # save to list
+  kwiclist_sent_con[[word]] <- context_con_sent # save to list
 }
 
-kwic_con_sent.df = do.call(rbind, kwiclist_sent) # save to final data frame 
+kwic_con_sent.df = do.call(rbind, kwiclist_sent_con) # save to final data frame 
 
 kwic_pro_sent.df
 kwic_con_sent.df
 ```
 
+
+
 # 2.2 Export Concordances
 ```{r}
 # save to csv file 
-#write.csv(kwic_pro_sent.df,"../output/pro_context.csv", row.names = FALSE)
-#write.csv(kwic_con_sent.df,"../output/con_context.csv", row.names = FALSE)
+#write.csv(kwic_pro_sent.df,"../output/pro_context_new.csv", row.names = FALSE)
+#write.csv(kwic_con_sent.df,"../output/con_context_new.csv", row.names = FALSE)
 ```
 
 

@@ -3,6 +3,22 @@ title: "Thesis"
 output: html_notebook
 ---
 
+```{r}
+library(quanteda.textplots)
+```
+
+```{r}
+p2022_merged_toks$group <- "activists"
+c2022_merged_toks$group <- "skeptics"
+
+complete = p2022_merged_toks + c2022_merged_toks
+```
+
+```{r}
+#complete
+```
+
+
 # Create WordCloud of all Climate Compounds
 
 ```{r}
@@ -10,9 +26,26 @@ output: html_notebook
 pro2022$group <- "activists"
 contra2022$group <- "skeptics"
 complete = pro2022 + contra2022
+
 #summary(complete, n =4342)
 ```
 
+```{r}
+complete_dfm <- dfm(complete)
+```
+```{r}
+dtm <- as.DocumentTermMatrix(complete_dfm, weighting = weightTf)
+```
+```{r}
+tdm <- as.TermDocumentMatrix(complete_dfm, weighting = weightTf) %>%
+  as.matrix()
+
+tdm
+
+colnames(tdm) <- c("Activists","Skeptics")
+
+print(xtable(head(tdm)), type="html")
+```
 
 
 ```{r}
