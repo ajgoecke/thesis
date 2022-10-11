@@ -335,47 +335,104 @@ And compute TF-IDF of the DFMs
 ```{r}
 ### FOR C2022
 # create dfm of lemmatized tokens, only keep compound words
-dfm_c2022 <- dfm(sp_c2022_tokens) %>% dfm_keep(pattern = compounds)
-dfm_c2022_tfidf <- dfm_tfidf(dfm_c2022) # compute tfidf scores
-top_c2022_norm <- normalize(topfeatures(dfm_c2022, n=300)) # normalize scores
+#dfm_c2022 <- dfm(sp_c2022_tokens) %>% dfm_keep(pattern = compounds)
+#dfm_c2022_tfidf <- dfm_tfidf(dfm_c2022) # compute tfidf scores
+#top_c2022_norm <- normalize(topfeatures(dfm_c2022, n=300)) # normalize scores
+
+dfm_c2022 <- dfm(sp_c2022_tokens) %>% 
+            dfm_tfidf() %>%
+            dfm_keep(pattern = compounds) 
+
+c2022_tfidf <- normalize(topfeatures(dfm_c2022, n=300))
+
+  
+ # dfm_keep(pattern = compounds)
+#dfm_c2022_tfidf <- dfm_tfidf(dfm_c2022) # compute tfidf scores
+#top_c2022_norm <- normalize(topfeatures(dfm_c2022, n=300))
+
 
 # convert dfm into data frame
-top_c2022_norm_df <- data.frame(Term = names(top_c2022_norm), Freq = top_c2022_norm, row.names = NULL) %>%
+top_c2022_norm <- data.frame(Term = names(c2022_tfidf), Freq = c2022_tfidf, row.names = NULL) %>%
   dplyr::arrange(desc(Freq))
 
 ### FOR P2022
 # create dfm of lemmatized tokens, only keep compound words
-dfm_p2022 <- dfm(sp_p2022_tokens) %>% dfm_keep(pattern = compounds) 
-dfm_p2022_tfidf <- dfm_tfidf(dfm_p2022) # compute tfidf scores
-top_p2022_norm <- normalize(topfeatures(dfm_p2022, n=300)) # normalize scores
+#dfm_p2022 <- dfm(sp_p2022_tokens) %>% dfm_keep(pattern = compounds) 
+#dfm_p2022_tfidf <- dfm_tfidf(dfm_p2022) # compute tfidf scores
+#top_p2022_norm <- normalize(topfeatures(dfm_p2022, n=300)) # normalize scores
+
+
+dfm_p2022 <- dfm(sp_p2022_tokens) %>% 
+            dfm_tfidf() %>%
+            dfm_keep(pattern = compounds) 
+
+p2022_tfidf <- normalize(topfeatures(dfm_p2022, n=300))
 
 # convert dfm into data frame
-top_p2022_norm_df <- data.frame(Term = names(top_p2022_norm), Freq = top_p2022_norm, row.names = NULL) %>%
+top_p2022_norm <- data.frame(Term = names(p2022_tfidf), Freq = p2022_tfidf, row.names = NULL) %>%
   dplyr::arrange(desc(Freq))
 
 # change column names to be able to merge both data frames
-colnames(top_p2022_norm_df)[2] <- "Freq_P2022"
-colnames(top_c2022_norm_df)[2] <- "Freq_C2022"
+colnames(top_p2022_norm)[2] <- "Freq_P2022"
+colnames(top_c2022_norm)[2] <- "Freq_C2022"
 
 # merge data frames 
-df_merge <- merge(top_c2022_norm_df,top_p2022_norm_df,by="Term", all.x = TRUE, all.y = TRUE)
+df_merge <- merge(top_c2022_norm,top_p2022_norm,by="Term", all.x = TRUE, all.y = TRUE)
 
 # write to csv file
-#write.csv(df_merge,"/Users/anna/Documents/uni/thesis/implementation/R/output/tfidf_complete.csv", row.names = TRUE)
+write.csv(df_merge,"/Users/anna/Documents/uni/thesis/implementation/R/output/tfidf_complete.csv", row.names = TRUE)
 ```
 
 
+## Plot TF-IDF Scores
+```{r}
+# retrieve frequency table of dfm
+freqs_pro <- textstat_frequency(dfm_p2022, force=TRUE)
+freqs_con <- textstat_frequency(dfm_c2022, force=TRUE)
+
+# capitalize first letter of compound
+freqs_pro$feature <- str_to_title(freqs_pro$feature)
+freqs_con$feature <- str_to_title(freqs_con$feature)
+
+# apply normalization
+freqs_pro$normalize = round(normalize(freqs_pro$frequency),3)
+freqs_con$normalize = round(normalize(freqs_con$frequency),3)
+
+# plot comparison of both groups
+freqs.act <- filter(freqs_pro) %>% as.data.frame() %>% select(feature, normalize)
+freqs.scept <- filter(freqs_con) %>% as.data.frame() %>% select(feature, normalize)
+freqs <- left_join(freqs.act, freqs.scept, by = "feature") %>% head(50) %>% arrange(normalize.x) %>% mutate(feature = factor(feature, feature))
+
+# create plot
+plot8 <- ggplot(freqs) +
+    geom_segment(aes(x=feature, xend=feature, y=normalize.x, yend=normalize.y), color="grey") +
+    geom_point(aes(x=feature, y=normalize.x, colour="Activists"), size = 3) +
+    geom_point(aes(x=feature, y=normalize.y, colour="Sceptics"), size = 3) +
+    ggtitle("Comparison 'Klima' TF-IDF Scores per Group") + 
+    xlab("") + ylab("TF-IDF") +
+    coord_flip()
+
+plot8+labs(colour="Group")
+
+# save to png 
+#ggsave("/Users/anna/Documents/uni/thesis/plots/comparison_tfidf.png", dpi=300, dev='png', height=10, width=15, units="in")
+```
+# TO DELETE!!!!
 ## Plot TF-IDF Scores
 ```{r}
 # create a sample of the dfm with all words starting with "klima..." 
 #klima_p2000 <- dfm_select(dfm_p2000_lemma, pattern="klima*")
 #klima_c2000 <- dfm_select(dfm_c2000_lemma, pattern="klima*")
 
-c2022_dfm <- dfm(sp_c2022_tokens) 
-c2022_tfidf <- dfm_tfidf(c2022_dfm)
+#####
+#c2022_dfm <- dfm(sp_c2022_tokens) 
+#c2022_tfidf <- dfm_tfidf(c2022_dfm)
 
-p2022_dfm <- dfm(sp_p2022_tokens) 
-p2022_tfidf <- dfm_tfidf(p2022_dfm)
+#p2022_dfm <- dfm(sp_p2022_tokens) 
+#p2022_tfidf <- dfm_tfidf(p2022_dfm)
+######
+
+
 #dfm_c2022 <- dfm(sp_c2022_tokens) %>% dfm_keep(pattern = compounds)
 #dfm_c2022_tfidf <- dfm_tfidf(dfm_c2022) # compute tfidf scores
 #top_c2022_norm <- normalize(topfeatures(dfm_c2022, n=300))
@@ -420,9 +477,6 @@ plot8 <- ggplot(freqs) +
 plot8+labs(colour="Group")
 
 ggsave("/Users/anna/Documents/uni/thesis/plots/comparison_klima_freqs_lemma.png", dpi=300, dev='png', height=6, width=12, units="in")
-```
-```{r}
-freqs
 ```
 
 
