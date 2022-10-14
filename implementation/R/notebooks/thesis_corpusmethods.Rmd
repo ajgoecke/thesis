@@ -407,8 +407,8 @@ freqs <- left_join(freqs.act, freqs.scept, by = "feature") %>% head(50) %>% arra
 plot8 <- ggplot(freqs) +
     geom_segment(aes(x=feature, xend=feature, y=normalize.x, yend=normalize.y), color="grey") +
     geom_point(aes(x=feature, y=normalize.x, colour="Activists"), size = 3) +
-    geom_point(aes(x=feature, y=normalize.y, colour="Sceptics"), size = 3) +
-    ggtitle("Comparison 'Klima' TF-IDF Scores per Group") + 
+    geom_point(aes(x=feature, y=normalize.y, colour="Skeptics"), size = 3) +
+    ggtitle("Comparison TF-IDF Scores per Subdiscourse") + 
     xlab("") + ylab("TF-IDF") +
     coord_flip()
 
