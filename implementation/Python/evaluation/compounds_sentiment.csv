@@ -1,8 +1,8 @@
 original;second_part;bert;bert_related;blob;blob_related;manual_sentiment
 klimaabzockerei;abzockerei;negative;negative;0.0;0.0;negative
-klimaaktivismus;aktivismus;positive;positive;0.0;0.0;positive
-klimaaktivist;aktivist;positive;positive;0.0;0.6666666666666666;positive
-klimaaktivistin;aktivistin;positive;positive;0.0;0.0;positive
+klimaaktivismus;aktivismus;positive;positive;0.0;0.0;neutral
+klimaaktivist;aktivist;positive;positive;0.0;0.6666666666666666;neutral
+klimaaktivistin;aktivistin;positive;positive;0.0;0.0;neutral
 klimaalarm;alarm;negative;negative;0.0;0.0;negative
 klimaalarmist;alarmist;negative;negative;0.0;0.0;negative
 klimaanbeter;anbeter;negative;positive;0.0;0.0;neutral
@@ -57,7 +57,7 @@ klimaflüsterer;flüsterer;negative;negative;0.0;0.0;neutral
 klimafreund;freund;positive;positive;0.0;0.018518518518518517;positive
 klimafreundin;freundin;positive;positive;0.0;0.04482758620689655;positive
 klimafreundlichkeit;freundlichkeit;positive;positive;0.0;0.084375;positive
-klimafront;front;positive;negative;0.0;0.0;neutral
+klimafront;front;positive;negative;0.0;0.0;negative
 klimaführerin;führerin;negative;negative;0.0;0.0;neutral
 klimagangster;gangster;negative;negative;0.0;0.0;negative
 klimagarde;garde;positive;positive;0.0;0.0;neutral
@@ -74,7 +74,7 @@ klimaglaubenslehre;glaubenslehre;neutral;neutral;0.0;0.0;neutral
 klimagläubigkeit;gläubigkeit;negative;negative;0.0;0.0;neutral
 klimagnom;gnom;positive;negative;0.0;0.0;neutral
 klimagott;gott;negative;negative;0.0;0.058823529411764705;neutral
-klimagöttin;göttin;positive;positive;0.0;0.0;positive
+klimagöttin;göttin;positive;positive;0.0;0.0;neutral
 klimagunst;gunst;positive;positive;0.0;0.0625;positive
 klimahardliner;hardliner;negative;negative;0.0;0.2333333333333333;negative
 klimaherausforderung;herausforderung;negative;negative;0.0;0.07777777777777778;negative
