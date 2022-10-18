@@ -1,3 +1,5 @@
+# Implementation in Python
+
 This material appears in sections 5 to 7.
 
 ## Subdirectories:
@@ -8,10 +10,10 @@ This material appears in sections 5 to 7.
 
 
 ## Scripts:
-- `notebooks/preprocessing.ipynb`: Section 5.1.1
-- `notebooks/textmining.ipynb`: Section 5.3 and Section 6
-- `notebooks/definitions.ipynb`: Section 7
-- `notebooks/json.ipynb`: Section 7 
+- `notebooks/preprocessing.ipynb`: notebook containing the implementation of the preprocessing of the compound words (see paper section 5.1.1)
+- `notebooks/textmining.ipynb`: notebook containing the implementation of the text mining methods (see paper section 5.3 and section 6)
+- `notebooks/definitions.ipynb`: notebook containing the implementation of the definition phrasing (see paper section 7)
+- `notebooks/json.ipynb`: notebook containing the implementation of the final definitions into the json file of the glossary (see paper section 7)
 
 
 ## Files:
@@ -27,7 +29,7 @@ In `evaluation/`:
 - `concept_manual`: manual annotation of the categories for the `persons` and `group` compounds (see paper section 5.3.4.1)
 - `attr_manual.csv`: manual annotation of attribution for a sample of compounds (see section 6)
 - `declension_forms.csv`: manual annotated declension forms, used for `notebooks/preprocessing.ipynb` notebook. 
-- - `persons_cleaned.csv`: table of unique person entities that were cleaned manually
+- `persons_cleaned.csv`: table of unique person entities that were cleaned manually
 - `organisations_cleaned.csv`: table of unique organisation entities that were cleaned manually
 
 
@@ -39,14 +41,14 @@ In `output/`:
 - `nouns_wup.csv`: contains the matrix of compound nouns and the similarity scores computed via `PATH` metric (see paper section 5.3.4.2)
 
 
-
-put to evaluation: 
-
-- full_sample_manual --> attr_manual 
-
-
-TO DELETE:
-- `con_sentiment.csv`: contains the compounds of C2022 for which we manually evaluate the polarity labels (see paper section 5.3.3)
-- `pro_sentiment.csv`: contains the compounds of P2022 for which we manually evaluate the polarity labels (see paper section 5.3.3)
-- `persons.txt`: list of unique person entities that were cleaned manually
-- `organisations.txt`: list of unique organisation entities that were cleaned manually
+## Requirements
+To be able to fully run all the notebooks, please make sure the following libraries are installed:
+- `pandas`: https://pandas.pydata.org/docs/
+- `german-nouns`: https://pypi.org/project/german-nouns/
+- `wordnet`: https://wn.readthedocs.io/en/latest/
+- `odenet`: https://github.com/hdaSprachtechnologie/odenet
+- `spacy`: https://spacy.io
+- `tabulate`: https://pypi.org/project/tabulate/
+- `german bert`: https://huggingface.co/oliverguhr/german-sentiment-bert
+- `numpy`: https://numpy.org
+- `textblob-de`: https://textblob-de.readthedocs.io/en/latest/

@@ -1,3 +1,5 @@
+# Implementation in R
+
 This material appears in Section 5 `Implementation`.
 
 ## Subdirectories:
@@ -10,3 +12,19 @@ This material appears in Section 5 `Implementation`.
 ## Scripts:
 - `notebooks/thesis_corpusmethods.Rmd`: Section 5.2 
 - `notebooks/thesis_preprocessing.Rmd`: Section 5.1.2
+
+## Files:
+
+In `output/`:
+- `con_context.csv`: contains the concordances for each compound word for the C2022 corpus, this file is used as input for most text mining techniques (see paper section 5.2.3)
+- `pro_context.csv`: contains the concordances for each compound word for the C2022 corpus, this file is used as input for most text mining techniques (see paper section 5.2.3)
+- `tf_complete.csv`: contains the term frequencies for all compound words and both corpora (see paper section 5.2.1)
+- `tfidf_complete.csv`: contains the TF-IDF scores for all compound words and both corpora (see paper section 5.2.1)
+- `top_collocations_con.csv`: contains the "uncleaned" version of the collocations for the C2022 corpus (see paper section 5.2.2)
+- `top_collocations_pro.csv`: contains the "uncleaned" version of the collocations for the P2022 corpus (see paper section 5.2.2)
+- `top_colls_con_cleaned.csv`: contains the manually cleaned collocations for the C2022 corpus
+- `top_colls_pro_cleaned.csv`: contains the manually cleaned collocations for the P2022 corpus
+
+In `workspace/`: 
+- `corpus_methods.RData`: R workspace for the notebook `notebooks/thesis_corpusmethods.Rm`
+- `preprocessing.RData`: R workspace for the notebook `notebooks/thesis_preprocessing.Rmd`
