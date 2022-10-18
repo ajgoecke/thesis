@@ -43,12 +43,11 @@ In `output/`:
 
 ## Requirements
 To be able to fully run all the notebooks, please make sure the following libraries are installed:
-- `pandas`: https://pandas.pydata.org/docs/
-- `german-nouns`: https://pypi.org/project/german-nouns/
-- `wordnet`: https://wn.readthedocs.io/en/latest/
-- `odenet`: https://github.com/hdaSprachtechnologie/odenet
-- `spacy`: https://spacy.io
-- `tabulate`: https://pypi.org/project/tabulate/
-- `german bert`: https://huggingface.co/oliverguhr/german-sentiment-bert
-- `numpy`: https://numpy.org
-- `textblob-de`: https://textblob-de.readthedocs.io/en/latest/
+- `pandas`: version 1.3.4 https://pandas.pydata.org/docs/
+- `german-nouns`: version 1.2.1 https://pypi.org/project/german-nouns/
+- `wordnet`: version 0.9.1 https://wn.readthedocs.io/en/latest/
+- `spacy`: version 3.3.1 https://spacy.io
+- `tabulate`: version 0.8.10 https://pypi.org/project/tabulate/
+- `german bert`: version 1.0.7 https://huggingface.co/oliverguhr/german-sentiment-bert
+- `numpy`: version 1.23.1 https://numpy.org
+- `textblob-de`: version 0.4.3 https://textblob-de.readthedocs.io/en/latest/ 

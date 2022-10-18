@@ -28,3 +28,14 @@ In `output/`:
 In `workspace/`: 
 - `corpus_methods.RData`: R workspace for the notebook `notebooks/thesis_corpusmethods.Rm`
 - `preprocessing.RData`: R workspace for the notebook `notebooks/thesis_preprocessing.Rmd`
+
+## Requirements
+To be able to fully run all the notebooks, please make sure the following libraries are installed:
+- `quanteda`: version 3.2.1 http://quanteda.io
+- `readtext`: version 0.81 https://cran.r-project.org/web/packages/readtext/vignettes/readtext_vignette.html
+- `tidyverse`: version 1.3.1 https://www.tidyverse.org
+- `spacyr`: verison 1.2.1 https://spacyr.quanteda.io
+- `data.table`: version 1.14.2 https://cran.r-project.org/web/packages/data.table/vignettes/datatable-intro.html
+- `textcat`: version 1.0-7 https://rdrr.io/cran/textcat/
+- `plyr`: version 1.8.7 http://had.co.nz/plyr/
+- `ggplot2`: version 3.3.5
