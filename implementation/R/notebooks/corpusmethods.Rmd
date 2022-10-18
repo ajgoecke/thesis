@@ -1,0 +1,402 @@
+---
+title: "Corpus-Based Methods"
+output: html_notebook
+---
+
+# 0. Requirements
+Note: Please load the workspace in the directory `implementation/R/workspace/corpus_methods.RData` to run the following code and re-use the previously created variables (to avoid long running times). Furthermore, the following libraries must be installed and loaded:
+```{r message=FALSE, warning=FALSE}
+# intall necessary packages
+#install.packages("quanteda")
+#install.packages("readtext")
+#install.packages("tidyverse")
+#install.packages("quanteda.textstats")
+#install.packages("quanteda.textplots")
+#install.packages("plyr")
+
+# load libraries
+library(quanteda)
+library(readtext)
+library(tidyverse)
+library(quanteda.textplots)
+library(quanteda.textstats)
+library(plyr)
+library(dplyr)
+```
+
+# 1. Collocations
+To retrieve the collocations, i.e. in our case one token to the left or right of the compound word, we use the `kwic` function offered by `quanteda`. Here we can choose a window of 1 to make sure we obtain the correct number of collocations.
+
+## 1.1 First Look
+Let's have a first look at the collocations for the example *Klimaleugner* (en: "climate denier"). We are going to retrieve the collocations to the left (`pre`) and to the right (`post`) of the key word and count their occurrences. Then, we will output the Top-5 collocations for each category, i.e. `pre` and `post`. 
+```{r}
+# apply keyword-in-context function for given word
+word = "klimaleugner"
+
+# to C2022
+kwic_con <- kwic(sp_c2022_tokens, pattern=word, window=1, valuetype="fixed") %>%
+  as_tibble()
+
+# to P2022
+kwic_pro <- kwic(sp_p2022_tokens, pattern=word, window=1, valuetype="fixed") %>%
+  as_tibble()
+```
+
+Let's show the Top-5 for the C2022 corpus:
+```{r}
+# count occurrences, sort descending and give top 5 "pre" collocations
+kwic_con %>%
+  dplyr::count(pre) %>%
+  arrange(desc(n)) %>%
+  head(n=5)
+
+# count occurrences, sort descending and give top 5 "post" collocations
+kwic_con %>%
+  dplyr:: count(post) %>%
+  arrange(desc(n)) %>%
+  head(n=5) 
+```
+
+And the Top-5 for the P2022 corpus:
+```{r}
+# count occurrences, sort descending and give top 5 "pre" collocations
+kwic_pro %>%
+ dplyr::count(pre) %>%
+  arrange(desc(n)) %>%
+  head(n=5)
+
+# count occurrences, sort descending and give top 5 "post" collocations
+kwic_pro %>%
+ dplyr::count(post) %>%
+  arrange(desc(n)) %>%
+  head(n=5)
+```
+
+## 1.2 Apply to all Glossary Terms
+Now we seek to create tables that contain the top 5 `pre` and `post` collocations for each of our compound words. 
+Firstly, we create a table for the collocations we can obtain from P2022
+```{r}
+# for each compound, get list of top 5 collocations
+# initiate empty data frame 
+pro_colls10 = data.frame()
+
+# for each compound
+for (word in compounds){
+
+  # get collocations: apply kwic function and turn into table 
+  kwic_pro <- kwic(sp_p2022_tokens, pattern=word, window=1, valuetype="fixed") %>%
+    as_tibble() 
+  
+  # set word as key word 
+  keyword <- word 
+  
+  # retrieve top5 preceding collocations
+  pro_pre <- kwic_pro %>%
+    dplyr::count(pre) %>% # count occurrences
+    arrange(desc(n)) %>% # sort descending
+    head(n=5) # give top 5
+
+  # retrieve top5 following collocations
+  pro_post <- kwic_pro %>%
+    dplyr::count(post) %>% # count occurrences
+    arrange(desc(n)) %>% # sort descending
+    head(n=5) # give top 5
+
+  # normalize data frames with top5 collocations 
+  pro_pre$keyword <- keyword # add keyword tag
+  pro_pre$tag <- "pre" # add "pre" tag
+  names(pro_pre)[names(pro_pre) == 'pre'] <- "word"
+
+  pro_post$keyword <- keyword # add keyword tag
+  pro_post$tag <- "post" # add "post" tag
+  names(pro_post)[names(pro_post) == 'post'] <- "word"
+  
+  # combine pre and post to full data frame 
+  pro_colls10 <- rbind(pro_colls10, pro_pre)
+  pro_colls10 <- rbind(pro_colls10, pro_post)} 
+```
+
+Most of the collocations only occur exactly once. Since this is not very informative for us, we remove all the collocations with a count of exactly 1. Also, we want to remove noise, i.e. empty strings from the collocations. 
+```{r}
+# only keep collocations that appear more than once 
+top_colls_pro<-pro_colls10[(pro_colls10$n > 1),]
+
+# remove empty strings 
+top_colls_pro<-top_colls_pro[(top_colls_pro$word > " "),]
+```
+
+And save the table to a csv file.
+```{r}
+#write.csv(top_colls_pro, "../output/top_collocations_pro.csv")
+```
+
+Then, we create the same table of the top 5 `pre` and `post` collocations for the C2022.
+```{r}
+# for each compound, get list of top 5 collocations
+# initiate empty data frame 
+con_colls10 = data.frame()
+
+# for each compound
+for (word in compounds){
+
+  # get collocations: apply kwic and turn into table 
+  kwic_con <- kwic(sp_c2022_tokens, pattern=word, window=1, valuetype="fixed") %>%
+    as_tibble()
+
+  # set word as keyword 
+  keyword <- word 
+  
+  # retrieve top5 preceding collocations
+  con_pre <- kwic_con %>%
+    dplyr::count(pre) %>% # count occurrences
+    arrange(desc(n)) %>% # sort descending
+    head(n=5) # give top 5
+
+  # retrieve top5 following collocations
+  con_post <- kwic_con %>%
+    dplyr::count(post) %>% # count occurrences
+    arrange(desc(n)) %>% # sort descending
+    head(n=5) # give top 5
+
+  # normalize data frames with top5 collocations 
+  con_pre$keyword <- keyword # set key word tag
+  con_pre$tag <- "pre" # set "pre" tag
+  names(con_pre)[names(con_pre) == 'pre'] <- "word"
+
+  con_post$keyword <- keyword # set key word tag
+  con_post$tag <- "post" # set "post" tag
+  names(con_post)[names(con_post) == 'post'] <- "word"
+  
+  # combine pre and post to full data frame
+  con_colls10 <- rbind(con_colls10, con_pre)
+  con_colls10 <- rbind(con_colls10, con_post)}
+```
+
+And, just like before, we remove the collocations that appeared only once in the corpus (and remove noise, i.e. empty strings from the collocations).
+```{r}
+# only keep collocations that appear more than once 
+top_colls_con<-con_colls10[(con_colls10$n > 1),]
+# remove empty strings 
+top_colls_con<-top_colls_con[(top_colls_con$word > " "),]
+```
+
+And save the final table to a csv file.
+```{r}
+#write.csv(top_colls_con, "../output/top_collocations_con.csv")
+```
+
+# 2. Concordances (KWIC)
+To retrieve the context of each compound word, we extract the concordances on a sentence level. That means, we extract a window of 5 sentences to the left and to the right of the keyword sentence. To do this, we have to tokenise our data by sentences, instead of words.
+
+## 2.1 Preprocessing 
+Since we cannot normalise the data the same way when we create tokens on a sentence-level, we firstly create word-level tokens from the corpora.
+```{r}
+# create word-level tokens for P2022 and C2022
+p2022_tokens <- tokens(pro2022, remove_punct = FALSE, remove_symbols = TRUE,
+                  remove_numbers = TRUE, remove_url = TRUE, remove_separators = TRUE)
+
+c2022_tokens <- tokens(contra2022, remove_punct = FALSE, remove_symbols = TRUE,
+                  remove_numbers = TRUE, remove_url = TRUE, remove_separators = TRUE)
+```
+
+To these tokens, we apply a normalisation step where we remove hyphens within words, such as "Klima-Skeptiker" to convert it to "Klimaskeptiker". 
+```{r}
+# remove hyphens from tokens
+
+# replace multi-token sequences with a "compound" token 
+toks_comp_p <- tokens_compound(p2022_tokens, phrase("*-*"), concatenator ="")
+
+# get tokens containing the hyphen
+toks_hyphenated_p <- grep("\\w+-\\w+", types(toks_comp_p), value = TRUE)
+
+# replace the hyphenated tokens by versions without hyphen
+p2022_toks_cleaned <- tokens_replace(toks_comp_p, toks_hyphenated_p, gsub("-", "", toks_hyphenated_p))
+
+# do same for C2022 tokens
+toks_comp_c <- tokens_compound(c2022_tokens, phrase("*-*"), concatenator ="")
+toks_hyphenated_c <- grep("\\w+-\\w+", types(toks_comp_c), value = TRUE)
+c2022_toks_cleaned <- tokens_replace(toks_comp_c, toks_hyphenated_c, gsub("-", "", toks_hyphenated_c))
+
+# merge tokens back into corpus object 
+p2022_merged_toks <- corpus(sapply(p2022_toks_cleaned, paste, collapse = " "))
+c2022_merged_toks <- corpus(sapply(c2022_toks_cleaned, paste, collapse = " "))
+```
+
+Now we can create cleaned sentence tokens for both corpora.
+```{r}
+# create "sentence" tokens for P2022 and C2022 corpus
+p2022_sentences <- tokens(p2022_merged_toks, remove_punct = FALSE, remove_symbols = TRUE,
+                  remove_numbers = TRUE, remove_url = TRUE, remove_separators = TRUE, 
+                  what = "sentence")
+
+c2022_sentences <- tokens(c2022_merged_toks, remove_punct = FALSE, remove_symbols = TRUE,
+                  remove_numbers = TRUE, remove_url = TRUE, remove_separators = TRUE, 
+                  what = "sentence")
+```
+
+## 2.2 Key Word In Context Retrieval
+To retrieve the concordances of each compound word, we apply the `Key-Word-In-Context` function given by `quanteda`.
+For this, we use the previously created sentence tokens. 
+```{r}
+# create a data frame from tokens containing 5 sentences before and after the keyword 
+
+### P2022 ####
+kwic_pro_sent.df <- data.frame(matrix(ncol = 7, nrow = 0)) # initiate empty data frame
+kwiclist_sent_pro <- list() # initiate empty list
+
+# for each compound word
+for (word in compounds)
+{
+  # retrieve sentences before/after keyword 
+  context_pro_sent <- kwic(p2022_sentences, word, valuetype="regex", window=5)
+  kwiclist_sent_pro[[word]] <- context_pro_sent # save to list 
+}
+
+kwic_pro_sent.df = do.call(rbind, kwiclist_sent_pro) # save to final data frame 
+
+### C2022 ###
+kwic_con_sent.df <- data.frame(matrix(ncol = 7, nrow = 0)) # initiate empty data frame
+kwiclist_sent_con <- list() # initiate empty list
+
+# for each compound word
+for (word in compounds)
+{
+  # retrieve sentences before/after keyword 
+  context_con_sent <- kwic(c2022_sentences, word, valuetype="regex", window=5) 
+  kwiclist_sent_con[[word]] <- context_con_sent # save to list
+}
+
+kwic_con_sent.df = do.call(rbind, kwiclist_sent_con) # save to final data frame 
+
+# give output
+kwic_pro_sent.df
+kwic_con_sent.df
+```
+
+# 2.2 Export Concordances
+Next, we export the concordances to the files `pro_context` and `con_context`.
+```{r}
+# save to csv file 
+#write.csv(kwic_pro_sent.df,"../output/pro_context.csv", row.names = FALSE)
+#write.csv(kwic_con_sent.df,"../output/con_context.csv", row.names = FALSE)
+```
+
+# 3. Term Frequencies
+Additionally, we compute the term frequencies of each compound word and the according TF-IDF score, since both corpora have a different size and we want to explore the relevance of each term. 
+
+Create a function to normalize the TF-IDF scores
+```{r}
+# min/max normalization from -1 to 1, relative to data frame results
+normalize <- function(x, na.rm = TRUE){
+  return((x - min(x)) / (max(x)-min(x)))}
+```
+
+We use the preprocessed tokens from the `preprocessing` notebook (the variables are loaded from the workspace). We re-combine these tokens to generate two corpus objects, one for each subdiscourse. Then we can assign groups to the two corpora and generate a full corpus variable `complete` that contains both corpora. This step enables us to directly retrieve the term frequencies for both corpora and to be able to get a comparison table of the frequencies. 
+```{r}
+# use lemmatised tokens to re-create a corpus
+# we need this step for the grouping of the frequencies 
+p2022_cleaned <- corpus(sapply(sp_p2022_tokens, paste, collapse = " "))
+c2022_cleaned <- corpus(sapply(sp_c2022_tokens, paste, collapse = " "))
+
+# create groups
+p2022_cleaned$group <- "activists"
+c2022_cleaned$group <- "skeptics"
+
+# create a corpus containing both subdiscourses
+complete = p2022_cleaned+c2022_cleaned
+```
+
+Now we create a DFM with the frequencies for which we only keep the compound words, since we are only interested in the term frequencies of the glossary terms. This DFM is then converted into a dataframe which contains the term frequencies for both subdiscourses. This can now be saved to a final file 
+```{r}
+# create dfm with frequencies per group
+dfm_complete_freq <- dfm(complete) %>% 
+                       dfm_keep(pattern = compounds) %>% # only keep compound words
+                       dfm_group(groups = group) # keep groups "activists" and "skeptics"
+
+# convert dfm to data frame 
+dfm_complete_df <- dfm_complete_freq %>% 
+                  convert(to = "data.frame") %>%
+                  t() # transpose data frame
+
+set.seed(132) # set seed for reproducibility
+textplot_wordcloud(dfm_complete_freq, comparison = TRUE, max_words = 250) # plot wordcloud
+
+#write.csv(dfm_complete_df,"../output/tf_complete.csv", row.names = TRUE)
+```
+# 3.1 Compute TF-IDF Scores
+Next, we compute the TF-IDF scores of the glossary terms. For this, we create DFMs for each subdiscourse. This is necessary to compute the TF-IDF scores for each term with respect to each of the corpora.  
+```{r}
+### FOR C2022 ### 
+
+# create dfm from tokens
+dfm_c2022 <- dfm(sp_c2022_tokens) %>% 
+            dfm_tfidf() %>% # apply tf-idf computation
+            dfm_keep(pattern = compounds) # remove words that are not contained in the glossary 
+
+# apply normalisation function
+c2022_tfidf <- normalize(topfeatures(dfm_c2022, n=300))
+
+
+# convert dfm into data frame and sort descending
+top_c2022_norm <- data.frame(Term = names(c2022_tfidf), Freq = c2022_tfidf, row.names = NULL) %>%
+  dplyr::arrange(desc(Freq))
+
+### FOR P2022 ### 
+
+# create dfm from tokens
+dfm_p2022 <- dfm(sp_p2022_tokens) %>% 
+            dfm_tfidf() %>% # apply tf-idf computation
+            dfm_keep(pattern = compounds) # remove words that are not contained in the glossary 
+
+# apply normalisation function
+p2022_tfidf <- normalize(topfeatures(dfm_p2022, n=300))
+
+# convert dfm into data frame and sort descending
+top_p2022_norm <- data.frame(Term = names(p2022_tfidf), Freq = p2022_tfidf, row.names = NULL) %>%
+  dplyr::arrange(desc(Freq))
+
+# change column names to be able to merge both data frames
+colnames(top_p2022_norm)[2] <- "Freq_P2022"
+colnames(top_c2022_norm)[2] <- "Freq_C2022"
+
+# merge data frames 
+df_merge <- merge(top_c2022_norm,top_p2022_norm,by="Term", all.x = TRUE, all.y = TRUE)
+
+# write to csv file
+#write.csv(df_merge,"../output/tfidf_complete.csv", row.names = TRUE)
+```
+
+## Plot TF-IDF Scores
+To visualize a comparison of the TF-IDF scores of the compound for each of the subdiscourses, we create the following plot of a sample of 50 glossary terms and their according scores. 
+```{r}
+# retrieve frequency table of dfm
+freqs_pro <- textstat_frequency(dfm_p2022, force=TRUE)
+freqs_con <- textstat_frequency(dfm_c2022, force=TRUE)
+
+# capitalize first letter of compound
+freqs_pro$feature <- str_to_title(freqs_pro$feature)
+freqs_con$feature <- str_to_title(freqs_con$feature)
+
+# apply normalization
+freqs_pro$normalize = round(normalize(freqs_pro$frequency),3)
+freqs_con$normalize = round(normalize(freqs_con$frequency),3)
+
+# plot comparison of both groups
+freqs.act <- filter(freqs_pro) %>% as.data.frame() %>% select(feature, normalize)
+freqs.scept <- filter(freqs_con) %>% as.data.frame() %>% select(feature, normalize)
+freqs <- left_join(freqs.act, freqs.scept, by = "feature") %>% head(50) %>% arrange(normalize.x) %>% mutate(feature = factor(feature, feature))
+
+# create plot
+plot8 <- ggplot(freqs) +
+    geom_segment(aes(x=feature, xend=feature, y=normalize.x, yend=normalize.y), color="grey") +
+    geom_point(aes(x=feature, y=normalize.x, colour="Activists"), size = 3) +
+    geom_point(aes(x=feature, y=normalize.y, colour="Skeptics"), size = 3) +
+    ggtitle("Comparison TF-IDF Scores per Subdiscourse") + 
+    xlab("") + ylab("TF-IDF") +
+    coord_flip()
+
+plot8+labs(colour="Group")
+
+# save to png 
+#ggsave("/Users/anna/Documents/uni/thesis/plots/comparison_tfidf.png", dpi=300, dev='png', height=10, width=15, units="in")
+```
