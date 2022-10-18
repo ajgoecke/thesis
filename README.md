@@ -7,7 +7,7 @@ Data and code for Anna-Janina Goeckes's 2022 Universität Potsdam MSc thesis Sem
 ### Contents
 The structure of this repository is as follows:
 
-- `implementation`: Contains the R and Python code and outputs 
+- `implementation`: contains the R and Python code and outputs 
 - `plots`: contains the plots used in the final thesis paper
 - `thesis.pdf`: final thesis paper in pdf format
 
