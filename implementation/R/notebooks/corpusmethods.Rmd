@@ -311,18 +311,20 @@ Now we create a DFM with the frequencies for which we only keep the compound wor
 # create dfm with frequencies per group
 dfm_complete_freq <- dfm(complete) %>% 
                        dfm_keep(pattern = compounds) %>% # only keep compound words
-                       dfm_group(groups = group) # keep groups "activists" and "skeptics"
+                       dfm_group(groups = group) %>% # keep groups "activists" and "skeptics"
+                       dfm_toupper()
 
-# convert dfm to data frame 
-dfm_complete_df <- dfm_complete_freq %>% 
-                  convert(to = "data.frame") %>%
-                  t() # transpose data frame
 
-set.seed(132) # set seed for reproducibility
+set.seed(27) # set seed for reproducibility
 textplot_wordcloud(dfm_complete_freq, comparison = TRUE, max_words = 250) # plot wordcloud
 
 #write.csv(dfm_complete_df,"../output/tf_complete.csv", row.names = TRUE)
 ```
+```{r}
+dfm_complete_freq
+```
+
+
 # 3.1 Compute TF-IDF Scores
 Next, we compute the TF-IDF scores of the glossary terms. For this, we create DFMs for each subdiscourse. This is necessary to compute the TF-IDF scores for each term with respect to each of the corpora.  
 ```{r}
@@ -400,3 +402,17 @@ plot8+labs(colour="Group")
 # save to png 
 #ggsave("/Users/anna/Documents/uni/thesis/plots/comparison_tfidf.png", dpi=300, dev='png', height=10, width=15, units="in")
 ```
+### DO THIS AND THEN SAVE WORKSPACE!!!!
+```{r}
+sp_c2022_tokens <- tokens_replace(sp_c2022_tokens, pattern="klimaglaubenslehr", replacement="klimaglaubenslehre", valuetype = "fixed")
+sp_c2022_tokens <- tokens_replace(sp_c2022_tokens, pattern="klimakarawan", replacement="klimakarawane", valuetype = "fixed")
+sp_c2022_tokens <- tokens_replace(sp_c2022_tokens, pattern="klimazeug", replacement="klimazeugs", valuetype = "fixed")
+sp_c2022_tokens <- tokens_replace(sp_c2022_tokens, pattern="klimawendehal", replacement="klimawendehals", valuetype = "fixed")
+sp_p2022_tokens <- tokens_replace(sp_p2022_tokens, pattern="klimaglaubenslehr", replacement="klimaglaubenslehre", valuetype = "fixed")
+sp_p2022_tokens <- tokens_replace(sp_p2022_tokens, pattern="klimakarawan", replacement="klimakarawane", valuetype = "fixed")
+sp_p2022_tokens <- tokens_replace(sp_p2022_tokens, pattern="klimazeug", replacement="klimazeugs", valuetype = "fixed")
+sp_p2022_tokens <- tokens_replace(sp_p2022_tokens, pattern="klimawendehal", replacement="klimawendehals", valuetype = "fixed")
+```
+
+
+
