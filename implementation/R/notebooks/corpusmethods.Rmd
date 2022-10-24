@@ -299,8 +299,8 @@ p2022_cleaned <- corpus(sapply(sp_p2022_tokens, paste, collapse = " "))
 c2022_cleaned <- corpus(sapply(sp_c2022_tokens, paste, collapse = " "))
 
 # create groups
-p2022_cleaned$group <- "activists"
-c2022_cleaned$group <- "skeptics"
+p2022_cleaned$group <- "Supporters"
+c2022_cleaned$group <- "Skeptics"
 
 # create a corpus containing both subdiscourses
 complete = p2022_cleaned+c2022_cleaned
@@ -315,16 +315,9 @@ dfm_complete_freq <- dfm(complete) %>%
                        dfm_toupper()
 
 
-set.seed(27) # set seed for reproducibility
+set.seed(3) # set seed for reproducibility
 textplot_wordcloud(dfm_complete_freq, comparison = TRUE, max_words = 250) # plot wordcloud
-
-#write.csv(dfm_complete_df,"../output/tf_complete.csv", row.names = TRUE)
 ```
-```{r}
-dfm_complete_freq
-```
-
-
 # 3.1 Compute TF-IDF Scores
 Next, we compute the TF-IDF scores of the glossary terms. For this, we create DFMs for each subdiscourse. This is necessary to compute the TF-IDF scores for each term with respect to each of the corpora.  
 ```{r}
@@ -386,21 +379,21 @@ freqs_con$normalize = round(normalize(freqs_con$frequency),3)
 # plot comparison of both groups
 freqs.act <- filter(freqs_pro) %>% as.data.frame() %>% select(feature, normalize)
 freqs.scept <- filter(freqs_con) %>% as.data.frame() %>% select(feature, normalize)
-freqs <- left_join(freqs.act, freqs.scept, by = "feature") %>% head(50) %>% arrange(normalize.x) %>% mutate(feature = factor(feature, feature))
+freqs <- left_join(freqs.act, freqs.scept, by = "feature") %>% head(30) %>% arrange(normalize.x) %>% mutate(feature = factor(feature, feature))
 
 # create plot
 plot8 <- ggplot(freqs) +
     geom_segment(aes(x=feature, xend=feature, y=normalize.x, yend=normalize.y), color="grey") +
-    geom_point(aes(x=feature, y=normalize.x, colour="Activists"), size = 3) +
+    geom_point(aes(x=feature, y=normalize.x, colour="Supporters"), size = 3) +
     geom_point(aes(x=feature, y=normalize.y, colour="Skeptics"), size = 3) +
-    ggtitle("Comparison TF-IDF Scores per Subdiscourse") + 
+    ggtitle("Comparison TF-IDF Scores per Sub Discourse") + 
     xlab("") + ylab("TF-IDF") +
     coord_flip()
 
 plot8+labs(colour="Group")
 
 # save to png 
-#ggsave("/Users/anna/Documents/uni/thesis/plots/comparison_tfidf.png", dpi=300, dev='png', height=10, width=15, units="in")
+#ggsave("/Users/anna/Documents/uni/thesis/plots/comparison_tfidf.png", dpi=300, dev='png', height=6, width=11, units="in")
 ```
 ### DO THIS AND THEN SAVE WORKSPACE!!!!
 ```{r}
