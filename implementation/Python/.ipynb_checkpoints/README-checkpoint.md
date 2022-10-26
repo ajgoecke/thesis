@@ -14,6 +14,7 @@ This material appears in sections 5 to 7.
 - `notebooks/textmining.ipynb`: notebook containing the implementation of the text mining methods (see paper section 5.3 and section 6)
 - `notebooks/definitions.ipynb`: notebook containing the implementation of the definition phrasing (see paper section 7)
 - `notebooks/json.ipynb`: notebook containing the implementation of the final definitions into the json file of the glossary (see paper section 7)
+- `notebooks/definition_strings.py`: Python script that contains the definition strings that are used to phrase the final definitions (see paper section 7)
 
 
 ## Files:
