@@ -52,3 +52,4 @@ To be able to fully run all the notebooks, please make sure the following librar
 - `german bert`: version 1.0.7 https://huggingface.co/oliverguhr/german-sentiment-bert
 - `numpy`: version 1.23.1 https://numpy.org
 - `textblob-de`: version 0.4.3 https://textblob-de.readthedocs.io/en/latest/ 
+- `random
