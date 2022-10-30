@@ -36,6 +36,7 @@ In `evaluation/`:
 
 In `output/`:
 - `knowledge_base.csv`: final knowledge base of all glossary terms
+- `info.zip`: zip file that contains `con_info.csv` and `pro_info.csv` (since those files were to big to be pushed onto GitHub. Please unzip first to be able to fully run all Python notebooks in `notebooks`. 
 - `con_info.csv`: contains the contexts of all compounds occuring in the C2022 corpus and the output of the text mining methods that were applied to it. 
 - `pro_info.csv`: contains the contexts of all compounds occuring in the P2022 corpus and the output of the text mining methods that were applied to it. 
 - `nouns_sim.csv`: contains the matrix of compound nouns and the similarity scores computed via `PATH` metric (see paper section 5.3.4.2)
@@ -52,3 +53,4 @@ To be able to fully run all the notebooks, please make sure the following librar
 - `german bert`: version 1.0.7 https://huggingface.co/oliverguhr/german-sentiment-bert
 - `numpy`: version 1.23.1 https://numpy.org
 - `textblob-de`: version 0.4.3 https://textblob-de.readthedocs.io/en/latest/ 
+- `random

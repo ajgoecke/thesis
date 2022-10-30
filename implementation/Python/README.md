@@ -36,6 +36,7 @@ In `evaluation/`:
 
 In `output/`:
 - `knowledge_base.csv`: final knowledge base of all glossary terms
+- `info.zip`: zip file that contains `con_info.csv` and `pro_info.csv` (since those files were to big to be pushed onto GitHub. Please unzip first to be able to fully run all Python notebooks in `notebooks`. 
 - `con_info.csv`: contains the contexts of all compounds occuring in the C2022 corpus and the output of the text mining methods that were applied to it. 
 - `pro_info.csv`: contains the contexts of all compounds occuring in the P2022 corpus and the output of the text mining methods that were applied to it. 
 - `nouns_sim.csv`: contains the matrix of compound nouns and the similarity scores computed via `PATH` metric (see paper section 5.3.4.2)
