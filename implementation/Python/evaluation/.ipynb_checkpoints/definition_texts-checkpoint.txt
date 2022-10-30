@@ -1,0 +1,953 @@
+
+Klimaabzockerei, die
+Der Begriff "Klimaabzockerei" bezeichnet eine Aktion im Bezug auf den Klimawandel. Der Begriff wird in unserem Korpus 1 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Werner Kirstein.
+__________________________________________________
+Klimaaktivismus, der
+Der Begriff "Klimaaktivismus" bezeichnet eine Aktion im Bezug auf den Klimawandel. Der Begriff wird in unserem Korpus 1 Mal von den Klimaforschungsskeptikern und 3 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.02 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell neutral konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Greta Thunberg und der Vertreter Korpus Ken Jebsen und Wolf Dieter Storl. Im Kontext von "Klimaaktivismus" erfolgt die Nennung folgender Organisation(en): GLS Bank, BUNDjugend (Vertreter Korpus).
+
+Siehe auch: Klimaaktivist
+__________________________________________________
+Klimaaktivist, der
+Der Begriff "Klimaaktivist" bezeichnet eine Person, die eine Haltung zum Klimawandel einnimmt. Der Begriff wird in unserem Korpus 66 Mal von den Klimaforschungsskeptikern und 61 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.61 für die Skeptiker und 0.16 für die Vertreter. Verwendet wird "Klimaaktivist" hierbei im Sinne einer Fremdzuschreibung von Seiten der Skeptiker und als Selbstzuschreibung im Vetreter Korpus. In 0% (Vertreter Diskurs) und 1% (Skeptiker Diskurs) der Fälle wird die Verwendung als sarkatisch eingestuft. In unserem Korpus Sample ist der Begriff tendenziell neutral konnotiert. Im Subdiskurs der Klimaforschungsvertreter wird der Begriff von Wörtern wie 'lieb' und 'jung' modifiziert. Modifizierer wie 'bekannt' und 'weltweit' treten häufig auf, um den Begriff im Subdiskurs der Klimaforschungsskeptiker näher zu beschreiben. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Greta Thunberg und Bill McKibben und der Vertreter Korpus Greta Thunberg und Vanessa Nakate. Im Kontext von "Klimaaktivist" erfolgt die Nennung folgender Organisation(en): EIKE, IPCC (Skeptiker Korpus) und FFF, EU (Vertreter Korpus).
+
+Siehe auch: Klimamacher, Klimaaktivismus, Klimademagoge
+Häufige Kollokationen: 'Bill', 'Jahr' (Skeptiker) und 'indigen', 'schon' (Vertreter)
+__________________________________________________
+Klimaaktivistin, die
+Der Begriff "Klimaaktivistin" bezeichnet eine Person, die eine Haltung zum Klimawandel einnimmt. Der Begriff wird in unserem Korpus 9 Mal von den Klimaforschungsskeptikern und 24 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.1 für die Skeptiker und 0.14 für die Vertreter. Verwendet wird "Klimaaktivistin" hierbei im Sinne einer Fremdzuschreibung von Seiten der Skeptiker und als Selbstzuschreibung im Vetreter Korpus. In 0% (Vertreter Diskurs) und 0% (Skeptiker Diskurs) der Fälle wird die Verwendung als sarkatisch eingestuft. In unserem Korpus Sample ist der Begriff tendenziell neutral konnotiert. Modifizierer wie 'schwedisch' treten häufig auf, um den Begriff im Subdiskurs der Klimaforschungsskeptiker näher zu beschreiben. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Greta Thunberg und Naomi Seibt und der Vertreter Korpus Greta Thunberg und Howey Ou. Im Kontext von "Klimaaktivistin" erfolgt die Nennung folgender Organisation(en): New York Post, EIKE (Skeptiker Korpus) und FFF, EU (Vertreter Korpus).
+
+Siehe auch: Klimaaktivist
+Häufige Kollokationen: 'schwedisch', 'Greta' (Skeptiker) und 'Howey', 'Vanessa' (Vertreter)
+__________________________________________________
+Klimaalarm, der
+Der Begriff "Klimaalarm" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 38 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.4 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert. Modifizierer wie 'nur' und 'prominent' treten häufig auf, um den Begriff im Subdiskurs der Klimaforschungsskeptiker näher zu beschreiben. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Sterling Burnett und Judith Curry. Im Kontext von "Klimaalarm" erfolgt die Nennung folgender Organisation(en): EIKE, IPCC (Skeptiker Korpus).
+
+Siehe auch: Klimaalarmist
+Häufige Kollokationen: 'erklären', 'brandenburgisch' (Skeptiker) 
+__________________________________________________
+Klimaalarmist, der
+Der Begriff "Klimaalarmist" bezeichnet eine Person, die eine Haltung zum Klimawandel einnimmt. Der Begriff wird in unserem Korpus 115 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.95 für die Skeptiker und 0.0 für die Vertreter. Verwendet wird "Klimaalarmist" hierbei im Sinne einer Fremdzuschreibung von Seiten der Skeptiker. In 0% der Fälle wird die Verwendung als sarkatisch eingestuft. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert. Modifizierer wie 'nur' und 'prominent' treten häufig auf, um den Begriff im Subdiskurs der Klimaforschungsskeptiker näher zu beschreiben. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Sterling Burnett und Greta Thunberg. Im Kontext von "Klimaalarmist" erfolgt die Nennung folgender Organisation(en): IPCC, EIKE (Skeptiker Korpus).
+
+Siehe auch: Klimaalarm
+Häufige Kollokationen: 'bzgl.', 'gleiche' (Skeptiker) 
+__________________________________________________
+Klimaanbeter, der
+Der Begriff "Klimaanbeter" bezeichnet eine Person, die eine Haltung zum Klimawandel einnimmt. Der Begriff wird in unserem Korpus 1 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. Verwendet wird "Klimaanbeter" hierbei im Sinne einer Fremdzuschreibung von Seiten der Skeptiker. In 0% der Fälle wird die Verwendung als sarkatisch eingestuft. In unserem Korpus Sample ist der Begriff tendenziell neutral konnotiert. Im Kontext von "Klimaanbeter" erfolgt die Nennung folgender Organisation(en): EIKE (Skeptiker Korpus).
+
+Siehe auch: Klimasektierer
+__________________________________________________
+Klimaapokalypse, die
+Der Begriff "Klimaapokalypse" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 9 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.1 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Donald Trump und Harald Kunstmann. Im Kontext von "Klimaapokalypse" erfolgt die Nennung folgender Organisation(en): Die Grünen, WUWT (Skeptiker Korpus).
+
+Siehe auch: Klimauntergang, Klimaapokalyptiker, Klimaarmageddon
+__________________________________________________
+Klimaapokalyptiker, der
+Der Begriff "Klimaapokalyptiker" bezeichnet eine Person, die eine Haltung zum Klimawandel einnimmt. Der Begriff wird in unserem Korpus 1 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. Verwendet wird "Klimaapokalyptiker" hierbei im Sinne einer Fremdzuschreibung von Seiten der Skeptiker. In 0% der Fälle wird die Verwendung als sarkatisch eingestuft. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert.
+
+Siehe auch: Klimaapokalypse
+__________________________________________________
+Klimaapostel, der
+Der Begriff "Klimaapostel" bezeichnet eine Person, die eine Haltung zum Klimawandel einnimmt. Der Begriff wird in unserem Korpus 3 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.03 für die Skeptiker und 0.0 für die Vertreter. Verwendet wird "Klimaapostel" hierbei im Sinne einer Fremdzuschreibung von Seiten der Skeptiker. In 0% der Fälle wird die Verwendung als sarkatisch eingestuft. In unserem Korpus Sample ist der Begriff tendenziell neutral konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Bill McKibben und Harald Lesch. Im Kontext von "Klimaapostel" erfolgt die Nennung folgender Organisation(en): EIKE, Spiegel (Skeptiker Korpus).
+__________________________________________________
+Klimaargument, das
+Der Begriff "Klimaargument" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 1 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell neutral konnotiert. Im Kontext von "Klimaargument" erfolgt die Nennung folgender Organisation(en): EIKE (Skeptiker Korpus).
+__________________________________________________
+Klimaarmageddon, das
+Der Begriff "Klimaarmageddon" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 3 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.03 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) James Hansen und Barack Obama. Im Kontext von "Klimaarmageddon" erfolgt die Nennung folgender Organisation(en): The Guardian (Skeptiker Korpus).
+
+Siehe auch: Klimauntergang, Klimaapokalypse
+__________________________________________________
+Klimaasyl, das
+Der Begriff "Klimaasyl" wird in unserem Korpus 0 Mal von den Klimaforschungsskeptikern und 1 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell neutral konnotiert. Im Kontext von "Klimaasyl" erfolgt die Nennung folgender Organisation(en): FFF, Scientists For Future (Vertreter Korpus).
+__________________________________________________
+Klimaaufschrei, der
+Der Begriff "Klimaaufschrei" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 0 Mal von den Klimaforschungsskeptikern und 1 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert. Im Kontext von "Klimaaufschrei" erfolgt die Nennung folgender Organisation(en): FFF, Friday Form Future (Vertreter Korpus).
+
+Siehe auch: Klimageschrei
+__________________________________________________
+Klimaaufstand, der
+Der Begriff "Klimaaufstand" bezeichnet eine Aktion im Bezug auf den Klimawandel. Der Begriff wird in unserem Korpus 1 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert. Im Kontext von "Klimaaufstand" erfolgt die Nennung folgender Organisation(en): WBGU (Skeptiker Korpus).
+__________________________________________________
+Klimabankrott, der
+Der Begriff "Klimabankrott" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 1 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert.
+__________________________________________________
+Klimabeeinflussung, die
+Der Begriff "Klimabeeinflussung" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 2 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.02 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert. Im Kontext von "Klimabeeinflussung" erfolgt die Nennung folgender Organisation(en): NOAA (Skeptiker Korpus).
+__________________________________________________
+Klimabefürworter, der
+Der Begriff "Klimabefürworter" bezeichnet eine Person, die eine Haltung zum Klimawandel einnimmt. Der Begriff wird in unserem Korpus 2 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.02 für die Skeptiker und 0.0 für die Vertreter. Verwendet wird "Klimabefürworter" hierbei im Sinne einer Fremdzuschreibung von Seiten der Skeptiker. In 0% der Fälle wird die Verwendung als sarkatisch eingestuft. In unserem Korpus Sample ist der Begriff tendenziell neutral konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Stuart Agnew und Andreas Demmig. Im Kontext von "Klimabefürworter" erfolgt die Nennung folgender Organisation(en): Europäischen Kommission, EIKE (Skeptiker Korpus).
+__________________________________________________
+Klimabesoffenheit, die
+Der Begriff "Klimabesoffenheit" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 1 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert.
+__________________________________________________
+Klimabesorgnis, die
+Der Begriff "Klimabesorgnis" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 1 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert.
+__________________________________________________
+Klimabetrug, der
+Der Begriff "Klimabetrug" bezeichnet eine Aktion im Bezug auf den Klimawandel. Der Begriff wird in unserem Korpus 7 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.08 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Barack Obama und James Delingpole. Im Kontext von "Klimabetrug" erfolgt die Nennung folgender Organisation(en): UN (Skeptiker Korpus).
+
+Siehe auch: Klimaverbrechen, Klimabetrüger
+__________________________________________________
+Klimabetrüger, der
+Der Begriff "Klimabetrüger" bezeichnet eine Person, die eine Haltung zum Klimawandel einnimmt. Der Begriff wird in unserem Korpus 3 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.03 für die Skeptiker und 0.0 für die Vertreter. Verwendet wird "Klimabetrüger" hierbei im Sinne einer Fremdzuschreibung von Seiten der Skeptiker. In 0% der Fälle wird die Verwendung als sarkatisch eingestuft. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert.
+
+Siehe auch: Klimabetrug, Klimaschwindler
+__________________________________________________
+Klimabewegtheit, die
+Der Begriff "Klimabewegtheit" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 1 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell neutral konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Michael Mann.
+__________________________________________________
+Klimabibel, die
+Der Begriff "Klimabibel" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 1 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell neutral konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Rajendra Pachauri. Im Kontext von "Klimabibel" erfolgt die Nennung folgender Organisation(en): IPCC (Skeptiker Korpus).
+__________________________________________________
+Klimabigotterie, die
+Der Begriff "Klimabigotterie" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 1 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell neutral konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Daniel Wetzel.
+__________________________________________________
+Klimabluff, der
+Der Begriff "Klimabluff" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 2 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.02 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Axel Bojanowski. Im Kontext von "Klimabluff" erfolgt die Nennung folgender Organisation(en): DWD, CDU (Skeptiker Korpus).
+Häufige Kollokationen: 'Unwetter' (Skeptiker) 
+__________________________________________________
+Klimablödsinn, der
+Der Begriff "Klimablödsinn" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 3 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.03 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Jörg Kachelmann. Im Kontext von "Klimablödsinn" erfolgt die Nennung folgender Organisation(en): FAZ, ARD (Skeptiker Korpus).
+
+Siehe auch: Klimaunsinn, Klimaquatsch, Klimaunfug, Klimakäse, Klimagefasel
+__________________________________________________
+Klimabrandstifter, der
+Der Begriff "Klimabrandstifter" bezeichnet eine Person, die eine Haltung zum Klimawandel einnimmt. Der Begriff wird in unserem Korpus 1 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. Verwendet wird "Klimabrandstifter" hierbei im Sinne einer None von Seiten der Skeptiker. In 0% der Fälle wird die Verwendung als sarkatisch eingestuft. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Joe Biden. Im Kontext von "Klimabrandstifter" erfolgt die Nennung folgender Organisation(en): EIKE (Skeptiker Korpus).
+__________________________________________________
+Klimabremser, der
+Der Begriff "Klimabremser" bezeichnet eine Person, die eine Haltung zum Klimawandel einnimmt. Der Begriff wird in unserem Korpus 2 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.02 für die Skeptiker und 0.0 für die Vertreter. Verwendet wird "Klimabremser" hierbei im Sinne einer Fremdzuschreibung von Seiten der Skeptiker. In 100% der Fälle wird die Verwendung als sarkatisch eingestuft. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Harald Lesch.
+
+Siehe auch: Klimaskeptiker
+__________________________________________________
+Klimachaos, das
+Der Begriff "Klimachaos" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 6 Mal von den Klimaforschungsskeptikern und 1 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.07 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Hans Joachim Schellnhuber und Helmut Fuchs. Im Kontext von "Klimachaos" erfolgt die Nennung folgender Organisation(en): UN, Union of Concerned Scientists (Skeptiker Korpus).
+Häufige Kollokationen: 'Tag' (Skeptiker) 
+__________________________________________________
+Klimacrash, der
+Der Begriff "Klimacrash" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 1 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Hans Joachim Schellnhuber und Angela Merkel. Im Kontext von "Klimacrash" erfolgt die Nennung folgender Organisation(en): PIK, Institut für Klimafolgenforschung (Skeptiker Korpus).
+__________________________________________________
+Klimadampfer, der
+Der Begriff "Klimadampfer" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 2 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.02 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell neutral konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Frank-Walter Steinmeier und Horst-Joachim Lüdecke. Im Kontext von "Klimadampfer" erfolgt die Nennung folgender Organisation(en): Achgut.com, IPCC (Skeptiker Korpus).
+Häufige Kollokationen: 'Inspektion' (Skeptiker) 
+__________________________________________________
+Klimademagoge, der
+Der Begriff "Klimademagoge" bezeichnet eine Person, die eine Haltung zum Klimawandel einnimmt. Der Begriff wird in unserem Korpus 1 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. Verwendet wird "Klimademagoge" hierbei im Sinne einer Fremdzuschreibung von Seiten der Skeptiker. In 0% der Fälle wird die Verwendung als sarkatisch eingestuft. In unserem Korpus Sample ist der Begriff tendenziell neutral konnotiert. Im Kontext von "Klimademagoge" erfolgt die Nennung folgender Organisation(en): DER SPIEGEL, SPIEGEL (Skeptiker Korpus).
+
+Siehe auch: Klimamacher, Klimaaktivist, Klimaprediger
+__________________________________________________
+Klimadepression, die
+Der Begriff "Klimadepression" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 1 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Greta Thunberg.
+__________________________________________________
+Klimadialektik, die
+Der Begriff "Klimadialektik" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 1 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell neutral konnotiert.
+__________________________________________________
+Klimadiktatur, die
+Der Begriff "Klimadiktatur" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 11 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.13 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Angela Merkel und Nigel Calder. Im Kontext von "Klimadiktatur" erfolgt die Nennung folgender Organisation(en): Die Grünen, UN (Skeptiker Korpus).
+
+Siehe auch: Klimatyrannei
+__________________________________________________
+Klimadiplomatie, die
+Der Begriff "Klimadiplomatie" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 6 Mal von den Klimaforschungsskeptikern und 3 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.07 für die Skeptiker und 0.02 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell neutral konnotiert. Modifizierer wie 'international' treten häufig auf, um den Begriff im Subdiskurs der Klimaforschungsskeptiker näher zu beschreiben. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Andreas Karl und Stefan Rahmstorf und der Vertreter Korpus Oliver Geden. Im Kontext von "Klimadiplomatie" erfolgt die Nennung folgender Organisation(en): Die Grünen, NOAA (Skeptiker Korpus) und Stiftung Wissenschaft und Politik (Vertreter Korpus).
+Häufige Kollokationen: 'international' (Skeptiker) 
+__________________________________________________
+Klimadogma, das
+Der Begriff "Klimadogma" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 3 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.03 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell neutral konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Angela Merkel. Im Kontext von "Klimadogma" erfolgt die Nennung folgender Organisation(en): Klima- „ Wissenschaft, PIK (Skeptiker Korpus).
+__________________________________________________
+Klimadonna, die
+Der Begriff "Klimadonna" bezeichnet eine Person, die eine Haltung zum Klimawandel einnimmt. Der Begriff wird in unserem Korpus 5 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.06 für die Skeptiker und 0.0 für die Vertreter. Verwendet wird "Klimadonna" hierbei im Sinne einer Fremdzuschreibung von Seiten der Skeptiker. In 0% der Fälle wird die Verwendung als sarkatisch eingestuft. In unserem Korpus Sample ist der Begriff tendenziell neutral konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Stephan Schulz und Angela Merkel. Im Kontext von "Klimadonna" erfolgt die Nennung folgender Organisation(en): AGW, EU (Skeptiker Korpus).
+__________________________________________________
+Klimadramatik, die
+Der Begriff "Klimadramatik" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 1 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert.
+__________________________________________________
+Klimadürre, die
+Der Begriff "Klimadürre" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 1 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert. Im Kontext von "Klimadürre" erfolgt die Nennung folgender Organisation(en): PIK (Skeptiker Korpus).
+__________________________________________________
+Klimaelite, die
+Der Begriff "Klimaelite" bezeichnet einen Zusammenschluss von Personen im Bezug auf den Klimawandel. Der Begriff wird in unserem Korpus 4 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.04 für die Skeptiker und 0.0 für die Vertreter. Verwendet wird "Klimaelite" hierbei im Sinne einer Exernal von Seiten der Skeptiker. In 20% der Fälle wird die Verwendung als sarkatisch eingestuft. In unserem Korpus Sample ist der Begriff tendenziell neutral konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Maybritt Illner und Christiana Figueres. Im Kontext von "Klimaelite" erfolgt die Nennung folgender Organisation(en): EIKE, Die Grünen (Skeptiker Korpus).
+Häufige Kollokationen: 'alternativ', 'Behörde' (Skeptiker) 
+__________________________________________________
+Klimaerkrankung, die
+Der Begriff "Klimaerkrankung" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 2 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.02 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert.
+__________________________________________________
+Klimaernsthaftigkeit, die
+Der Begriff "Klimaernsthaftigkeit" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 0 Mal von den Klimaforschungsskeptikern und 2 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.01 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell neutral konnotiert. Im Kontext von "Klimaernsthaftigkeit" erfolgt die Nennung folgender Organisation(en): Klimawissen e.V, PZU (Vertreter Korpus).
+Häufige Kollokationen:  'testfall', 'namhaft' (Vertreter)
+__________________________________________________
+Klimaerzählung, die
+Der Begriff "Klimaerzählung" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 1 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell neutral konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Alexander Krauß.
+
+Siehe auch: Klimalüge
+__________________________________________________
+Klimaestablishment, das
+Der Begriff "Klimaestablishment" bezeichnet einen Zusammenschluss von Personen im Bezug auf den Klimawandel. Der Begriff wird in unserem Korpus 3 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.03 für die Skeptiker und 0.0 für die Vertreter. Verwendet wird "Klimaestablishment" hierbei im Sinne einer Fremdzuschreibung von Seiten der Skeptiker. In 33% der Fälle wird die Verwendung als sarkatisch eingestuft. In unserem Korpus Sample ist der Begriff tendenziell neutral konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Scott Pruitt und Donald Trump. Im Kontext von "Klimaestablishment" erfolgt die Nennung folgender Organisation(en): UN, EPA (Skeptiker Korpus).
+__________________________________________________
+Klimaethik, die
+Der Begriff "Klimaethik" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 1 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell neutral konnotiert. Im Kontext von "Klimaethik" erfolgt die Nennung folgender Organisation(en): Energiewende international (Skeptiker Korpus).
+__________________________________________________
+Klimaextremismus, der
+Der Begriff "Klimaextremismus" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 1 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert.
+__________________________________________________
+Klimafachkraft, die
+Der Begriff "Klimafachkraft" bezeichnet eine Person, die eine Haltung zum Klimawandel einnimmt. Der Begriff wird in unserem Korpus 1 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. Verwendet wird "Klimafachkraft" hierbei im Sinne einer None von Seiten der Skeptiker. In 0% der Fälle wird die Verwendung als sarkatisch eingestuft. In unserem Korpus Sample ist der Begriff tendenziell neutral konnotiert. Im Kontext von "Klimafachkraft" erfolgt die Nennung folgender Organisation(en): SPD, CSU (Skeptiker Korpus).
+__________________________________________________
+Klimafanatiker, der
+Der Begriff "Klimafanatiker" bezeichnet eine Person, die eine Haltung zum Klimawandel einnimmt. Der Begriff wird in unserem Korpus 3 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.03 für die Skeptiker und 0.0 für die Vertreter. Verwendet wird "Klimafanatiker" hierbei im Sinne einer Fremdzuschreibung von Seiten der Skeptiker. In 0% der Fälle wird die Verwendung als sarkatisch eingestuft. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert. Im Kontext von "Klimafanatiker" erfolgt die Nennung folgender Organisation(en): Die Grünen, UN (Skeptiker Korpus).
+__________________________________________________
+Klimafeind, der
+Der Begriff "Klimafeind" bezeichnet eine Person, die eine Haltung zum Klimawandel einnimmt. Der Begriff wird in unserem Korpus 1 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. Verwendet wird "Klimafeind" hierbei im Sinne einer Selbstzuschreibung von Seiten der Skeptiker. In 0% der Fälle wird die Verwendung als sarkatisch eingestuft. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Luisa Neubauer und Horst-Joachim Lüdecke. Im Kontext von "Klimafeind" erfolgt die Nennung folgender Organisation(en): Volkswagen, Die Grünen (Skeptiker Korpus).
+__________________________________________________
+Klimafestung, die
+Der Begriff "Klimafestung" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 1 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell neutral konnotiert.
+__________________________________________________
+Klimafieber, das
+Der Begriff "Klimafieber" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 1 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert. Im Kontext von "Klimafieber" erfolgt die Nennung folgender Organisation(en): Spiegel Online, Die Grünen (Skeptiker Korpus).
+__________________________________________________
+Klimafluch, der
+Der Begriff "Klimafluch" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 2 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.02 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Barbara Hendricks. Im Kontext von "Klimafluch" erfolgt die Nennung folgender Organisation(en): Greenpeace, ARTE (Skeptiker Korpus).
+__________________________________________________
+Klimaflüsterer, der
+Der Begriff "Klimaflüsterer" bezeichnet eine Person, die eine Haltung zum Klimawandel einnimmt. Der Begriff wird in unserem Korpus 1 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. Verwendet wird "Klimaflüsterer" hierbei im Sinne einer Selbstzuschreibung von Seiten der Skeptiker. In 0% der Fälle wird die Verwendung als sarkatisch eingestuft. In unserem Korpus Sample ist der Begriff tendenziell neutral konnotiert. Im Kontext von "Klimaflüsterer" erfolgt die Nennung folgender Organisation(en): AFD (Skeptiker Korpus).
+__________________________________________________
+Klimafreund, der
+Der Begriff "Klimafreund" bezeichnet eine Person, die eine Haltung zum Klimawandel einnimmt. Der Begriff wird in unserem Korpus 1 Mal von den Klimaforschungsskeptikern und 3 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.02 für die Vertreter. Verwendet wird "Klimafreund" hierbei im Sinne einer Fremdzuschreibung von Seiten der Skeptiker und als Selbstzuschreibung im Vetreter Korpus. In 0% (Vertreter Diskurs) und 50% (Skeptiker Diskurs) der Fälle wird die Verwendung als sarkatisch eingestuft. In unserem Korpus Sample ist der Begriff tendenziell positiv konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Emmanuel Macron und Greta Thunberg und der Vertreter Korpus Armin Laschet und Joachim Wille. Im Kontext von "Klimafreund" erfolgt die Nennung folgender Organisation(en): SPD, BR (Skeptiker Korpus) und FFF, Bundestag (Vertreter Korpus).
+
+Siehe auch: Klimafreundin
+__________________________________________________
+Klimafreundin, die
+Der Begriff "Klimafreundin" bezeichnet eine Person, die eine Haltung zum Klimawandel einnimmt. Der Begriff wird in unserem Korpus 0 Mal von den Klimaforschungsskeptikern und 1 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. Verwendet wird "Klimafreundin" hierbei im Sinne einer Selbstzuschreibung von Seiten der Vertreter. In 0% der Fälle wird die Verwendung als sarkatisch eingestuft. In unserem Korpus Sample ist der Begriff tendenziell positiv konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) der Vertreter Korpus Joachim Wille.
+
+Siehe auch: Klimafreund
+__________________________________________________
+Klimafreundlichkeit, die
+Der Begriff "Klimafreundlichkeit" bezeichnet eine Aktion im Bezug auf den Klimawandel. Der Begriff wird in unserem Korpus 0 Mal von den Klimaforschungsskeptikern und 2 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.01 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell positiv konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) der Vertreter Korpus Armin Laschet. Im Kontext von "Klimafreundlichkeit" erfolgt die Nennung folgender Organisation(en): NOAA, Landtag (Vertreter Korpus).
+__________________________________________________
+Klimafront, die
+Der Begriff "Klimafront" wird in unserem Korpus 4 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.05 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert. Im Kontext von "Klimafront" erfolgt die Nennung folgender Organisation(en): EIKE (Skeptiker Korpus).
+__________________________________________________
+Klimaführerin, die
+Der Begriff "Klimaführerin" bezeichnet eine Person, die eine Haltung zum Klimawandel einnimmt. Der Begriff wird in unserem Korpus 1 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. Verwendet wird "Klimaführerin" hierbei im Sinne einer Fremdzuschreibung von Seiten der Skeptiker. In 0% der Fälle wird die Verwendung als sarkatisch eingestuft. In unserem Korpus Sample ist der Begriff tendenziell neutral konnotiert.
+__________________________________________________
+Klimagangster, der
+Der Begriff "Klimagangster" bezeichnet eine Person, die eine Haltung zum Klimawandel einnimmt. Der Begriff wird in unserem Korpus 1 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. Verwendet wird "Klimagangster" hierbei im Sinne einer Fremdzuschreibung von Seiten der Skeptiker. In 0% der Fälle wird die Verwendung als sarkatisch eingestuft. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Christian Möser.
+
+Siehe auch: Klimaverbrecher
+__________________________________________________
+Klimagarde, die
+Der Begriff "Klimagarde" bezeichnet einen Zusammenschluss von Personen im Bezug auf den Klimawandel. Der Begriff wird in unserem Korpus 3 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.03 für die Skeptiker und 0.0 für die Vertreter. Verwendet wird "Klimagarde" hierbei im Sinne einer Fremdzuschreibung von Seiten der Skeptiker. In 0% der Fälle wird die Verwendung als sarkatisch eingestuft. In unserem Korpus Sample ist der Begriff tendenziell neutral konnotiert. Modifizierer wie 'jung' treten häufig auf, um den Begriff im Subdiskurs der Klimaforschungsskeptiker näher zu beschreiben. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Barbara Hendricks und Bärbel Höhn. Im Kontext von "Klimagarde" erfolgt die Nennung folgender Organisation(en): EIKE, Greenpeace (Skeptiker Korpus).
+Häufige Kollokationen: 'Weltrettungsbibel', 'jung' (Skeptiker) 
+__________________________________________________
+Klimagau, der
+Der Begriff "Klimagau" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 1 Mal von den Klimaforschungsskeptikern und 3 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.02 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) der Vertreter Korpus Greta Thunberg. Im Kontext von "Klimagau" erfolgt die Nennung folgender Organisation(en): Europäischen Rat (Vertreter Korpus).
+__________________________________________________
+Klimagefahr, die
+Der Begriff "Klimagefahr" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 9 Mal von den Klimaforschungsskeptikern und 2 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.11 für die Skeptiker und 0.01 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Maybritt Illner und Svenja Schulze. Im Kontext von "Klimagefahr" erfolgt die Nennung folgender Organisation(en): University of California, SPIEGEL (Skeptiker Korpus).
+Häufige Kollokationen: 'verschwinden', 'simuliert' (Skeptiker) 
+__________________________________________________
+Klimagefasel, das
+Der Begriff "Klimagefasel" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 1 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Donald Trump.
+
+Siehe auch: Klimaunsinn, Klimaquatsch, Klimaunfug, Klimakäse, Klimablödsinn
+__________________________________________________
+Klimagerechtigkeit, die
+Der Begriff "Klimagerechtigkeit" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 16 Mal von den Klimaforschungsskeptikern und 280 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.2 für die Skeptiker und 1.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell neutral konnotiert. Im Subdiskurs der Klimaforschungsvertreter wird der Begriff von Wörtern wie 'global' und 'mehr' modifiziert. Modifizierer wie 'global' und 'mehr' treten häufig auf, um den Begriff im Subdiskurs der Klimaforschungsskeptiker näher zu beschreiben. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Barbara Hendricks und Wolfgang Thüne und der Vertreter Korpus Greta Thunberg und Olaf Scholz. Im Kontext von "Klimagerechtigkeit" erfolgt die Nennung folgender Organisation(en): Die Grünen, EU (Skeptiker Korpus) und FFF, EU (Vertreter Korpus).
+
+Siehe auch: Klimaungerechtigkeit
+Häufige Kollokationen: 'aufgreifen', 'mehr' (Skeptiker) und 'rechter', 'Einhaltung' (Vertreter)
+__________________________________________________
+Klimageschrei, das
+Der Begriff "Klimageschrei" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 1 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell neutral konnotiert. Im Kontext von "Klimageschrei" erfolgt die Nennung folgender Organisation(en): Siemens (Skeptiker Korpus).
+
+Siehe auch: Klimaaufschrei
+__________________________________________________
+Klimageschäft, das
+Der Begriff "Klimageschäft" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 2 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.02 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) der Vertreter Korpus Franz Perrez, Christian Eichler. Im Kontext von "Klimageschäft" erfolgt die Nennung folgender Organisation(en): der Grünen, Commerzbank (Skeptiker Korpus) und Union, Klimawissen e.V (Vertreter Korpus).
+__________________________________________________
+Klimagesinnung, die
+Der Begriff "Klimagesinnung" bezeichnet eine Aktion im Bezug auf den Klimawandel. Der Begriff wird in unserem Korpus 2 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.02 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell neutral konnotiert. Modifizierer wie 'richtig' treten häufig auf, um den Begriff im Subdiskurs der Klimaforschungsskeptiker näher zu beschreiben. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Ursula von der Leyen und Angela Merkel. Im Kontext von "Klimagesinnung" erfolgt die Nennung folgender Organisation(en): Bayerisches Landesamt für Umwelt, EIKE (Skeptiker Korpus).
+__________________________________________________
+Klimaglaube, der
+Der Begriff "Klimaglaube" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 6 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.07 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell neutral konnotiert. Modifizierer wie 'global' treten häufig auf, um den Begriff im Subdiskurs der Klimaforschungsskeptiker näher zu beschreiben. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Angela Merkel und Donald Trump. Im Kontext von "Klimaglaube" erfolgt die Nennung folgender Organisation(en): Die Grünen, PIK (Skeptiker Korpus).
+
+Siehe auch: Klimagläubigkeit
+Häufige Kollokationen: 'global' (Skeptiker) 
+__________________________________________________
+Klimaglaubensbekenntnis, das
+Der Begriff "Klimaglaubensbekenntnis" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 1 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell neutral konnotiert. Im Kontext von "Klimaglaubensbekenntnis" erfolgt die Nennung folgender Organisation(en): CDU (Skeptiker Korpus).
+__________________________________________________
+Klimaglaubenslehre, die
+Der Begriff "Klimaglaubenslehre" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 1 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell neutral konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Angela Merkel. Im Kontext von "Klimaglaubenslehre" erfolgt die Nennung folgender Organisation(en): Tagesspiegel, EIKE (Skeptiker Korpus).
+__________________________________________________
+Klimagläubigkeit, die
+Der Begriff "Klimagläubigkeit" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 1 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell neutral konnotiert. Im Kontext von "Klimagläubigkeit" erfolgt die Nennung folgender Organisation(en): NPD (Skeptiker Korpus).
+
+Siehe auch: Klimaglaube
+__________________________________________________
+Klimagnom, 0
+Der Begriff "Klimagnom" bezeichnet eine Person, die eine Haltung zum Klimawandel einnimmt. Der Begriff wird in unserem Korpus 0 Mal von den Klimaforschungsskeptikern und 1 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. Verwendet wird "Klimagnom" hierbei im Sinne einer Fremdzuschreibung von Seiten der Vertreter. In 0% der Fälle wird die Verwendung als sarkatisch eingestuft. In unserem Korpus Sample ist der Begriff tendenziell neutral konnotiert.
+__________________________________________________
+Klimagott, der
+Der Begriff "Klimagott" bezeichnet eine Person, die eine Haltung zum Klimawandel einnimmt. Der Begriff wird in unserem Korpus 5 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.06 für die Skeptiker und 0.0 für die Vertreter. Verwendet wird "Klimagott" hierbei im Sinne einer Exernal von Seiten der Skeptiker. In 33% der Fälle wird die Verwendung als sarkatisch eingestuft. In unserem Korpus Sample ist der Begriff tendenziell neutral konnotiert. Im Kontext von "Klimagott" erfolgt die Nennung folgender Organisation(en): ZDF (Skeptiker Korpus).
+
+Siehe auch: Klimagöttin
+Häufige Kollokationen: 'potsdamer', 'huldigen' (Skeptiker) 
+__________________________________________________
+Klimagunst, die
+Der Begriff "Klimagunst" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 1 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell neutral konnotiert.
+__________________________________________________
+Klimagöttin, die
+Der Begriff "Klimagöttin" bezeichnet eine Person, die eine Haltung zum Klimawandel einnimmt. Der Begriff wird in unserem Korpus 1 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. Verwendet wird "Klimagöttin" hierbei im Sinne einer Exernal von Seiten der Skeptiker. In 0% der Fälle wird die Verwendung als sarkatisch eingestuft. In unserem Korpus Sample ist der Begriff tendenziell positiv konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Greta Thunberg.
+
+Siehe auch: Klimagott
+__________________________________________________
+Klimahardliner, der
+Der Begriff "Klimahardliner" bezeichnet eine Person, die eine Haltung zum Klimawandel einnimmt. Der Begriff wird in unserem Korpus 1 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. Verwendet wird "Klimahardliner" hierbei im Sinne einer Exernal von Seiten der Skeptiker. In 0% der Fälle wird die Verwendung als sarkatisch eingestuft. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert. Im Kontext von "Klimahardliner" erfolgt die Nennung folgender Organisation(en): University of Cambridge (Skeptiker Korpus).
+__________________________________________________
+Klimaherausforderung, die
+Der Begriff "Klimaherausforderung" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 1 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert. Im Kontext von "Klimaherausforderung" erfolgt die Nennung folgender Organisation(en): Massachusetts Institute of Technology, New York Times (Skeptiker Korpus).
+__________________________________________________
+Klimahoax, der
+Der Begriff "Klimahoax" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 1 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell neutral konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Tony Heller und Michael Mann. Im Kontext von "Klimahoax" erfolgt die Nennung folgender Organisation(en): Goddard Institute for Space Studies (Skeptiker Korpus).
+__________________________________________________
+Klimahokuspokus, der
+Der Begriff "Klimahokuspokus" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 1 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert.
+__________________________________________________
+Klimahose, die
+Der Begriff "Klimahose" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 1 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert. Im Kontext von "Klimahose" erfolgt die Nennung folgender Organisation(en): AFD (Skeptiker Korpus).
+__________________________________________________
+Klimahybris, die
+Der Begriff "Klimahybris" bezeichnet eine Aktion im Bezug auf den Klimawandel. Der Begriff wird in unserem Korpus 1 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell neutral konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Nigel Calder. Im Kontext von "Klimahybris" erfolgt die Nennung folgender Organisation(en): Spiegel, IPCC (Skeptiker Korpus).
+__________________________________________________
+Klimahype, der
+Der Begriff "Klimahype" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 15 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.18 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell neutral konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Stefan Rahmstorf und Angela Merkel. Im Kontext von "Klimahype" erfolgt die Nennung folgender Organisation(en): EIKE, AWI (Skeptiker Korpus).
+
+Siehe auch: Klimahysterie
+Häufige Kollokationen: 'kommen', 'Klimawende' (Skeptiker) 
+__________________________________________________
+Klimahypothese, die
+Der Begriff "Klimahypothese" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 2 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.02 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Hans Joachim Schellnhuber. Im Kontext von "Klimahypothese" erfolgt die Nennung folgender Organisation(en): EIKE (Skeptiker Korpus).
+__________________________________________________
+Klimahysterie, die
+Der Begriff "Klimahysterie" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 97 Mal von den Klimaforschungsskeptikern und 10 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.79 für die Skeptiker und 0.07 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell positiv konnotiert. Modifizierer wie 'wieder' und 'aktuell' treten häufig auf, um den Begriff im Subdiskurs der Klimaforschungsskeptiker näher zu beschreiben. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Angela Merkel und Hans Joachim Schellnhuber und der Vertreter Korpus Greta Thunberg und Armin Laschet. Im Kontext von "Klimahysterie" erfolgt die Nennung folgender Organisation(en): IPCC, EIKE (Skeptiker Korpus) und FFF, AFD (Vertreter Korpus).
+
+Siehe auch: Klimahysteriker, Klimahype
+Häufige Kollokationen: 'Argument', 'vorhanden' (Skeptiker) und 'Unwort' (Vertreter)
+__________________________________________________
+Klimahysteriker, der
+Der Begriff "Klimahysteriker" bezeichnet eine Person, die eine Haltung zum Klimawandel einnimmt. Der Begriff wird in unserem Korpus 27 Mal von den Klimaforschungsskeptikern und 1 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.28 für die Skeptiker und 0.0 für die Vertreter. Verwendet wird "Klimahysteriker" hierbei im Sinne einer Exernal von Seiten der Skeptiker und als Fremdzuschreibung im Vetreter Korpus. In 0% (Vertreter Diskurs) und 0% (Skeptiker Diskurs) der Fälle wird die Verwendung als sarkatisch eingestuft. In unserem Korpus Sample ist der Begriff tendenziell neutral konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Angela Merkel und Volker Quaschning und der Vertreter Korpus Nina Janisch. Im Kontext von "Klimahysteriker" erfolgt die Nennung folgender Organisation(en): EIKE, IPCC (Skeptiker Korpus) und Spiegel, WDR (Vertreter Korpus).
+
+Siehe auch: Klimahysterie
+__________________________________________________
+Klimahölle, die
+Der Begriff "Klimahölle" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 1 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert.
+__________________________________________________
+Klimahüpfer, der
+Der Begriff "Klimahüpfer" bezeichnet eine Person, die eine Haltung zum Klimawandel einnimmt. Der Begriff wird in unserem Korpus 5 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.06 für die Skeptiker und 0.0 für die Vertreter. Verwendet wird "Klimahüpfer" hierbei im Sinne einer Exernal von Seiten der Skeptiker. In 0% der Fälle wird die Verwendung als sarkatisch eingestuft. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Luisa Neubauer und Hans Joachim Schellnhuber. Im Kontext von "Klimahüpfer" erfolgt die Nennung folgender Organisation(en): FFF, FDP (Skeptiker Korpus).
+__________________________________________________
+Klimaideologie, die
+Der Begriff "Klimaideologie" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 4 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.04 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell neutral konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Greta Thunberg und Henryk M Broder. Im Kontext von "Klimaideologie" erfolgt die Nennung folgender Organisation(en): NDR, EIKE (Skeptiker Korpus).
+__________________________________________________
+Klimaikone, die
+Der Begriff "Klimaikone" bezeichnet eine Person, die eine Haltung zum Klimawandel einnimmt. Der Begriff wird in unserem Korpus 1 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. Verwendet wird "Klimaikone" hierbei im Sinne einer Fremdzuschreibung von Seiten der Skeptiker. In 0% der Fälle wird die Verwendung als sarkatisch eingestuft. In unserem Korpus Sample ist der Begriff tendenziell neutral konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Christopher Grau und Greta Thunberg.
+__________________________________________________
+Klimainsider, der
+Der Begriff "Klimainsider" bezeichnet eine Person, die eine Haltung zum Klimawandel einnimmt. Der Begriff wird in unserem Korpus 1 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. Verwendet wird "Klimainsider" hierbei im Sinne einer None von Seiten der Skeptiker. In 0% der Fälle wird die Verwendung als sarkatisch eingestuft. In unserem Korpus Sample ist der Begriff tendenziell neutral konnotiert.
+__________________________________________________
+Klimaintelligenz, die
+Der Begriff "Klimaintelligenz" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 1 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell neutral konnotiert. Im Kontext von "Klimaintelligenz" erfolgt die Nennung folgender Organisation(en): EIKE, DWD (Skeptiker Korpus).
+
+Siehe auch: Klimaverstand, Klimavernunft
+__________________________________________________
+Klimairrsinn, der
+Der Begriff "Klimairrsinn" bezeichnet eine Aktion im Bezug auf den Klimawandel. Der Begriff wird in unserem Korpus 11 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.13 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Greta Thunberg und Angela Merkel. Im Kontext von "Klimairrsinn" erfolgt die Nennung folgender Organisation(en): EIKE, AFD (Skeptiker Korpus).
+
+Siehe auch: Klimaverrücktheit, Klimaschwachsinn, Klimawahnsinn
+Häufige Kollokationen: 'nehmen' (Skeptiker) 
+__________________________________________________
+Klimajünger, der
+Der Begriff "Klimajünger" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 4 Mal von den Klimaforschungsskeptikern und 1 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.04 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell neutral konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Jörg Kachelmann. Im Kontext von "Klimajünger" erfolgt die Nennung folgender Organisation(en): Die Grünen, KlimaNarrativ (Skeptiker Korpus) und CDU, INSM (Vertreter Korpus).
+__________________________________________________
+Klimakabarett, das
+Der Begriff "Klimakabarett" bezeichnet eine Aktion im Bezug auf den Klimawandel. Der Begriff wird in unserem Korpus 1 Mal von den Klimaforschungsskeptikern und 1 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell neutral konnotiert. Im Kontext von "Klimakabarett" erfolgt die Nennung folgender Organisation(en): CDU (Skeptiker Korpus).
+
+Siehe auch: Klimashow, Klimazirkus
+__________________________________________________
+Klimakaiserin, die
+Der Begriff "Klimakaiserin" bezeichnet eine Person, die eine Haltung zum Klimawandel einnimmt. Der Begriff wird in unserem Korpus 1 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. Verwendet wird "Klimakaiserin" hierbei im Sinne einer Exernal von Seiten der Skeptiker. In 0% der Fälle wird die Verwendung als sarkatisch eingestuft. In unserem Korpus Sample ist der Begriff tendenziell neutral konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Angela Merkel. Im Kontext von "Klimakaiserin" erfolgt die Nennung folgender Organisation(en): AFD (Skeptiker Korpus).
+__________________________________________________
+Klimakamarilla, die
+Der Begriff "Klimakamarilla" bezeichnet einen Zusammenschluss von Personen im Bezug auf den Klimawandel. Der Begriff wird in unserem Korpus 1 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. Verwendet wird "Klimakamarilla" hierbei im Sinne einer Fremdzuschreibung von Seiten der Skeptiker. In 0% der Fälle wird die Verwendung als sarkatisch eingestuft. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Stefan Rahmstorf. Im Kontext von "Klimakamarilla" erfolgt die Nennung folgender Organisation(en): IPCC, DWD (Skeptiker Korpus).
+__________________________________________________
+Klimakampf, der
+Der Begriff "Klimakampf" bezeichnet eine Aktion im Bezug auf den Klimawandel. Der Begriff wird in unserem Korpus 8 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.09 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Barbara Hendricks und Harald Kunstmann. Im Kontext von "Klimakampf" erfolgt die Nennung folgender Organisation(en): EIKE, Nordbayerischen Nachrichten (Skeptiker Korpus).
+__________________________________________________
+Klimakanzler, der
+Der Begriff "Klimakanzler" bezeichnet eine Person, die eine Haltung zum Klimawandel einnimmt. Der Begriff wird in unserem Korpus 0 Mal von den Klimaforschungsskeptikern und 2 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.01 für die Vertreter. Verwendet wird "Klimakanzler" hierbei im Sinne einer ExernalExternal von Seiten der Skeptiker und als ExternalSelf im Vetreter Korpus. In 0% (Vertreter Diskurs) und 0% (Skeptiker Diskurs) der Fälle wird die Verwendung als sarkatisch eingestuft. In unserem Korpus Sample ist der Begriff tendenziell neutral konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Angela Merkel und Jürgen Trittin und der Vertreter Korpus Angela Merkel und Andreas Scheuer. Im Kontext von "Klimakanzler" erfolgt die Nennung folgender Organisation(en): Europäische Union, EU (Skeptiker Korpus) und CDU, Die Grünen (Vertreter Korpus).
+
+Siehe auch: Klimakanzlerin
+__________________________________________________
+Klimakanzlerin, die
+Der Begriff "Klimakanzlerin" bezeichnet eine Person, die eine Haltung zum Klimawandel einnimmt. Der Begriff wird in unserem Korpus 20 Mal von den Klimaforschungsskeptikern und 9 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.22 für die Skeptiker und 0.06 für die Vertreter. Verwendet wird "Klimakanzlerin" hierbei im Sinne einer Exernal von Seiten der Skeptiker und als None im Vetreter Korpus. In 55% (Vertreter Diskurs) und 35% (Skeptiker Diskurs) der Fälle wird die Verwendung als sarkatisch eingestuft. In unserem Korpus Sample ist der Begriff tendenziell neutral konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Angela Merkel und Jürgen Trittin und der Vertreter Korpus Angela Merkel und Andreas Scheuer. Im Kontext von "Klimakanzlerin" erfolgt die Nennung folgender Organisation(en): Europäische Union, EU (Skeptiker Korpus) und CDU, Die Grünen (Vertreter Korpus).
+
+Siehe auch: Klimakanzler
+Häufige Kollokationen: 'politisch', 'Deutschland' (Skeptiker) 
+__________________________________________________
+Klimakarawane, die
+Der Begriff "Klimakarawane" bezeichnet eine Aktion im Bezug auf den Klimawandel. Der Begriff wird in unserem Korpus 1 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell neutral konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Barack Obama und Abraham Lincoln. Im Kontext von "Klimakarawane" erfolgt die Nennung folgender Organisation(en): IPCC (Skeptiker Korpus).
+__________________________________________________
+Klimakasteiung, die
+Der Begriff "Klimakasteiung" bezeichnet eine Aktion im Bezug auf den Klimawandel. Der Begriff wird in unserem Korpus 1 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Angela Merkel. Im Kontext von "Klimakasteiung" erfolgt die Nennung folgender Organisation(en): EIKE (Skeptiker Korpus).
+__________________________________________________
+Klimakataklysmus, der
+Der Begriff "Klimakataklysmus" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 2 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.02 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Michael Mann und Stephen McIntyre. Im Kontext von "Klimakataklysmus" erfolgt die Nennung folgender Organisation(en): EIKE, ZDF (Skeptiker Korpus).
+__________________________________________________
+Klimakatastrophentheorie, die
+Der Begriff "Klimakatastrophentheorie" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 4 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.05 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Greta Thunberg und Bjørn Lomborg. Im Kontext von "Klimakatastrophentheorie" erfolgt die Nennung folgender Organisation(en): NL, NSIDC (Skeptiker Korpus).
+Häufige Kollokationen: 'Vertreter', 'fällen' (Skeptiker) 
+__________________________________________________
+Klimakatechismus, der
+Der Begriff "Klimakatechismus" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 1 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert. Im Kontext von "Klimakatechismus" erfolgt die Nennung folgender Organisation(en): CDU (Skeptiker Korpus).
+__________________________________________________
+Klimaketzer, der
+Der Begriff "Klimaketzer" bezeichnet eine Person, die eine Haltung zum Klimawandel einnimmt. Der Begriff wird in unserem Korpus 2 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.02 für die Skeptiker und 0.0 für die Vertreter. Verwendet wird "Klimaketzer" hierbei im Sinne einer Selbstzuschreibung von Seiten der Skeptiker. In 0% der Fälle wird die Verwendung als sarkatisch eingestuft. In unserem Korpus Sample ist der Begriff tendenziell neutral konnotiert. Im Kontext von "Klimaketzer" erfolgt die Nennung folgender Organisation(en): PIK (Skeptiker Korpus).
+__________________________________________________
+Klimakirche, die
+Der Begriff "Klimakirche" bezeichnet eine Aktion im Bezug auf den Klimawandel. Der Begriff wird in unserem Korpus 30 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.32 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Harald Lesch und Stefan Kämpfe. Im Kontext von "Klimakirche" erfolgt die Nennung folgender Organisation(en): EIKE, Kohl & Co (Skeptiker Korpus).
+Häufige Kollokationen: 'eben' (Skeptiker) 
+__________________________________________________
+Klimaklamauk, der
+Der Begriff "Klimaklamauk" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 4 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.05 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell neutral konnotiert. Modifizierer wie 'politisch' treten häufig auf, um den Begriff im Subdiskurs der Klimaforschungsskeptiker näher zu beschreiben. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Horst-Joachim Lüdecke und Joe Romm. Im Kontext von "Klimaklamauk" erfolgt die Nennung folgender Organisation(en): IPCC, EIKE (Skeptiker Korpus).
+Häufige Kollokationen: 'politisch' (Skeptiker) 
+__________________________________________________
+Klimaklempner, der
+Der Begriff "Klimaklempner" bezeichnet eine Person, die eine Haltung zum Klimawandel einnimmt. Der Begriff wird in unserem Korpus 1 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. Verwendet wird "Klimaklempner" hierbei im Sinne einer Fremdzuschreibung von Seiten der Skeptiker. In 0% der Fälle wird die Verwendung als sarkatisch eingestuft. In unserem Korpus Sample ist der Begriff tendenziell related konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Wolfgang Kaufmann. Im Kontext von "Klimaklempner" erfolgt die Nennung folgender Organisation(en): Preußischen Allgemeinen Zeitung, EIKE (Skeptiker Korpus).
+__________________________________________________
+Klimakleriker, der
+Der Begriff "Klimakleriker" bezeichnet eine Person, die eine Haltung zum Klimawandel einnimmt. Der Begriff wird in unserem Korpus 2 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.02 für die Skeptiker und 0.0 für die Vertreter. Verwendet wird "Klimakleriker" hierbei im Sinne einer Fremdzuschreibung von Seiten der Skeptiker. In 0% der Fälle wird die Verwendung als sarkatisch eingestuft. In unserem Korpus Sample ist der Begriff tendenziell neutral konnotiert.
+__________________________________________________
+Klimakollekte, die
+Der Begriff "Klimakollekte" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 1 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Susanne Luther.
+__________________________________________________
+Klimakolonialismus, der
+Der Begriff "Klimakolonialismus" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 0 Mal von den Klimaforschungsskeptikern und 1 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell neutral konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) der Vertreter Korpus Luisa Neubauer, Klaus Kleber. Im Kontext von "Klimakolonialismus" erfolgt die Nennung folgender Organisation(en): heutejournal, AFD (Vertreter Korpus).
+__________________________________________________
+Klimakommissar, der
+Der Begriff "Klimakommissar" bezeichnet eine Person, die eine Haltung zum Klimawandel einnimmt. Der Begriff wird in unserem Korpus 0 Mal von den Klimaforschungsskeptikern und 1 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. Verwendet wird "Klimakommissar" hierbei im Sinne einer Fremdzuschreibung von Seiten der Skeptiker und als Selbstzuschreibung im Vetreter Korpus. In 0% (Vertreter Diskurs) und 0% (Skeptiker Diskurs) der Fälle wird die Verwendung als sarkatisch eingestuft. In unserem Korpus Sample ist der Begriff tendenziell neutral konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) der Vertreter Korpus Luisa Neubauer, Greta Thunberg. Im Kontext von "Klimakommissar" erfolgt die Nennung folgender Organisation(en): DUH, Tagesspiegel (Skeptiker Korpus) und CDU, GAP (Vertreter Korpus).
+__________________________________________________
+Klimakompetenz, die
+Der Begriff "Klimakompetenz" bezeichnet eine Aktion im Bezug auf den Klimawandel. Der Begriff wird in unserem Korpus 1 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell neutral konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Philipp Bovermann.
+__________________________________________________
+Klimakonfusion, die
+Der Begriff "Klimakonfusion" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 1 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell neutral konnotiert.
+
+Siehe auch: Klimaverwirrung
+__________________________________________________
+Klimakonklave, das
+Der Begriff "Klimakonklave" bezeichnet eine Aktion im Bezug auf den Klimawandel. Der Begriff wird in unserem Korpus 2 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.02 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Lord Monckton und George Monbiot.
+__________________________________________________
+Klimakonsens, der
+Der Begriff "Klimakonsens" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 3 Mal von den Klimaforschungsskeptikern und 2 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.03 für die Skeptiker und 0.01 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell neutral konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Barack Obama und Stefan Rahmstorf. Im Kontext von "Klimakonsens" erfolgt die Nennung folgender Organisation(en): IOP, NY Times (Skeptiker Korpus) und SPD, CDU (Vertreter Korpus).
+Häufige Kollokationen:  'Forderung', 'CDU' (Vertreter)
+__________________________________________________
+Klimakonsortium, das
+Der Begriff "Klimakonsortium" bezeichnet einen Zusammenschluss von Personen im Bezug auf den Klimawandel. Der Begriff wird in unserem Korpus 2 Mal von den Klimaforschungsskeptikern und 7 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.02 für die Skeptiker und 0.04 für die Vertreter. Verwendet wird "Klimakonsortium" hierbei im Sinne einer  In  In unserem Korpus Sample ist der Begriff tendenziell neutral konnotiert. Im Subdiskurs der Klimaforschungsvertreter wird der Begriff von Wörtern wie 'deutsch' modifiziert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) der Vertreter Korpus Peter Gleick, Ed Hawkins. Im Kontext von "Klimakonsortium" erfolgt die Nennung folgender Organisation(en): EIKE, DWD (Skeptiker Korpus) und Deutsche Meteorologische Gesellschaft, IPCC (Vertreter Korpus).
+Häufige Kollokationen:  'DKK', 'deutsch' (Vertreter)
+__________________________________________________
+Klimakontrolle, die
+Der Begriff "Klimakontrolle" bezeichnet eine Aktion im Bezug auf den Klimawandel. Der Begriff wird in unserem Korpus 3 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.03 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell neutral konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Greta Thunberg und Angela Merkel. Im Kontext von "Klimakontrolle" erfolgt die Nennung folgender Organisation(en): CSU, IPCC (Skeptiker Korpus).
+__________________________________________________
+Klimakontroverse, die
+Der Begriff "Klimakontroverse" bezeichnet eine Aktion im Bezug auf den Klimawandel. Der Begriff wird in unserem Korpus 1 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell neutral konnotiert.
+
+Siehe auch: Klimakrieg, Klimashow
+__________________________________________________
+Klimakreationismus, der
+Der Begriff "Klimakreationismus" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 1 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell neutral konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Ursula von der Leyen.
+__________________________________________________
+Klimakreuzzug, der
+Der Begriff "Klimakreuzzug" bezeichnet eine Aktion im Bezug auf den Klimawandel. Der Begriff wird in unserem Korpus 1 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert.
+__________________________________________________
+Klimakrieg, der
+Der Begriff "Klimakrieg" bezeichnet eine Aktion im Bezug auf den Klimawandel. Der Begriff wird in unserem Korpus 5 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.06 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell neutral konnotiert.
+
+Siehe auch: Klimakrieger, Klimakontroverse, Klimashow
+__________________________________________________
+Klimakrieger, der
+Der Begriff "Klimakrieger" bezeichnet eine Person, die eine Haltung zum Klimawandel einnimmt. Der Begriff wird in unserem Korpus 2 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.02 für die Skeptiker und 0.0 für die Vertreter. Verwendet wird "Klimakrieger" hierbei im Sinne einer Fremdzuschreibung von Seiten der Skeptiker. In 0% der Fälle wird die Verwendung als sarkatisch eingestuft. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert.
+
+Siehe auch: Klimakrieg, Klimastreiter
+__________________________________________________
+Klimakritik, die
+Der Begriff "Klimakritik" bezeichnet eine Aktion im Bezug auf den Klimawandel. Der Begriff wird in unserem Korpus 1 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert. Im Kontext von "Klimakritik" erfolgt die Nennung folgender Organisation(en): SPD, Bundestag (Skeptiker Korpus).
+
+Siehe auch: Klimakritiker
+__________________________________________________
+Klimakritiker, der
+Der Begriff "Klimakritiker" bezeichnet eine Person, die eine Haltung zum Klimawandel einnimmt. Der Begriff wird in unserem Korpus 2 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.02 für die Skeptiker und 0.0 für die Vertreter. Verwendet wird "Klimakritiker" hierbei im Sinne einer Selbstzuschreibung von Seiten der Skeptiker. In 0% der Fälle wird die Verwendung als sarkatisch eingestuft. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert. Im Kontext von "Klimakritiker" erfolgt die Nennung folgender Organisation(en): IPCC, EIKE (Skeptiker Korpus).
+
+Siehe auch: Klimakritik
+__________________________________________________
+Klimakult, der
+Der Begriff "Klimakult" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 8 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.11 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Charlie Baker und David Ismay. Im Kontext von "Klimakult" erfolgt die Nennung folgender Organisation(en): EIKE, Amnesty International (Skeptiker Korpus).
+__________________________________________________
+Klimakäse, der
+Der Begriff "Klimakäse" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 2 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.02 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Anne Hübner. Im Kontext von "Klimakäse" erfolgt die Nennung folgender Organisation(en): Antifa (Skeptiker Korpus).
+
+Siehe auch: Klimaunsinn, Klimaquatsch, Klimaunfug, Klimablödsinn, Klimagefasel
+__________________________________________________
+Klimakönigin, die
+Der Begriff "Klimakönigin" bezeichnet eine Person, die eine Haltung zum Klimawandel einnimmt. Der Begriff wird in unserem Korpus 1 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. Verwendet wird "Klimakönigin" hierbei im Sinne einer Fremdzuschreibung von Seiten der Skeptiker. In 100% der Fälle wird die Verwendung als sarkatisch eingestuft. In unserem Korpus Sample ist der Begriff tendenziell neutral konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Raimund Leistenschneider.
+__________________________________________________
+Klimalaie, der
+Der Begriff "Klimalaie" bezeichnet eine Person, die eine Haltung zum Klimawandel einnimmt. Der Begriff wird in unserem Korpus 2 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.02 für die Skeptiker und 0.0 für die Vertreter. Verwendet wird "Klimalaie" hierbei im Sinne einer Fremdzuschreibung von Seiten der Skeptiker. In 0% der Fälle wird die Verwendung als sarkatisch eingestuft. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Horst-Joachim Lüdecke. Im Kontext von "Klimalaie" erfolgt die Nennung folgender Organisation(en): IPCC, EIKE (Skeptiker Korpus).
+__________________________________________________
+Klimaleidenschaftlichkeit, die
+Der Begriff "Klimaleidenschaftlichkeit" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 2 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.02 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell neutral konnotiert.
+__________________________________________________
+Klimaleugner, der
+Der Begriff "Klimaleugner" bezeichnet eine Person, die eine Haltung zum Klimawandel einnimmt. Der Begriff wird in unserem Korpus 127 Mal von den Klimaforschungsskeptikern und 41 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.96 für die Skeptiker und 0.1 für die Vertreter. Verwendet wird "Klimaleugner" hierbei im Sinne einer Selbstzuschreibung von Seiten der Skeptiker und als Fremdzuschreibung im Vetreter Korpus. In 2% (Vertreter Diskurs) und 39% (Skeptiker Diskurs) der Fälle wird die Verwendung als sarkatisch eingestuft. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert. Modifizierer wie 'kein' und 'genannt' treten häufig auf, um den Begriff im Subdiskurs der Klimaforschungsskeptiker näher zu beschreiben. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Stefan Rahmstorf und Michael Limburg und der Vertreter Korpus Greta Thunberg und Tom Buhrow. Im Kontext von "Klimaleugner" erfolgt die Nennung folgender Organisation(en): EIKE, IPCC (Skeptiker Korpus) und AFD, FFF (Vertreter Korpus).
+
+Siehe auch: Klimaleugnung
+Häufige Kollokationen: 'Erfindung', 'fordern' (Skeptiker) und 'AfD' (Vertreter)
+__________________________________________________
+Klimaleugnung, die
+Der Begriff "Klimaleugnung" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 5 Mal von den Klimaforschungsskeptikern und 11 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.06 für die Skeptiker und 0.07 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Michael Mann und Eric Worrall und der Vertreter Korpus Wolf Dieter Storl und Marion Andert. Im Kontext von "Klimaleugnung" erfolgt die Nennung folgender Organisation(en): EIKE, AFD (Skeptiker Korpus) und demokratischen Natur- und Umweltschutzes, Fachstelle Radikalisierungsprävention (Vertreter Korpus).
+
+Siehe auch: Klimaleugner
+Häufige Kollokationen:  'Klimaskepsis', 'Anastasiabewegung' (Vertreter)
+__________________________________________________
+Klimalobby, die
+Der Begriff "Klimalobby" bezeichnet einen Zusammenschluss von Personen im Bezug auf den Klimawandel. Der Begriff wird in unserem Korpus 13 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.17 für die Skeptiker und 0.0 für die Vertreter. Verwendet wird "Klimalobby" hierbei im Sinne einer Fremdzuschreibung von Seiten der Skeptiker. In 0% der Fälle wird die Verwendung als sarkatisch eingestuft. In unserem Korpus Sample ist der Begriff tendenziell neutral konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Stefan Rahmstorf und Mojib Latif. Im Kontext von "Klimalobby" erfolgt die Nennung folgender Organisation(en): IPCC, UN (Skeptiker Korpus).
+__________________________________________________
+Klimalösegeld, das
+Der Begriff "Klimalösegeld" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 2 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.02 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Susanne Luther.
+__________________________________________________
+Klimalüge, die
+Der Begriff "Klimalüge" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 17 Mal von den Klimaforschungsskeptikern und 3 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.19 für die Skeptiker und 0.02 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Christian Möser und Hartmut Bachmann und der Vertreter Korpus Hartmut Bachmann und Donald Trump. Im Kontext von "Klimalüge" erfolgt die Nennung folgender Organisation(en): FFF, EIKE (Skeptiker Korpus) und IPCC, EU (Vertreter Korpus).
+
+Siehe auch: Klimaerzählung, Klimaleugner, Klimalügner
+Häufige Kollokationen: 'aufzuschwätzen', 'Welt' (Skeptiker) 
+__________________________________________________
+Klimalügner, der
+Der Begriff "Klimalügner" bezeichnet eine Person, die eine Haltung zum Klimawandel einnimmt. Der Begriff wird in unserem Korpus 5 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.05 für die Skeptiker und 0.0 für die Vertreter. Verwendet wird "Klimalügner" hierbei im Sinne einer Fremdzuschreibung von Seiten der Skeptiker. In 0% der Fälle wird die Verwendung als sarkatisch eingestuft. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Stefan Rahmstorf.
+
+Siehe auch: Klimalüge, Klimaleugner
+__________________________________________________
+Klimamacher, der
+ In unserem Korpus Sample ist der Begriff tendenziell neutral konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) der Vertreter Korpus Rainer Klingholz, Claudia Kemfert. Im Kontext von "Klimamacher" erfolgt die Nennung folgender Organisation(en): Weltorganisation für Meteorologie, Universität Oldenburg (Vertreter Korpus).
+
+Siehe auch: Klimaaktivist, Klimademagoge, Klimamilliardär
+__________________________________________________
+Klimamafia, die
+Der Begriff "Klimamafia" bezeichnet einen Zusammenschluss von Personen im Bezug auf den Klimawandel. Der Begriff wird in unserem Korpus 13 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.16 für die Skeptiker und 0.0 für die Vertreter. Verwendet wird "Klimamafia" hierbei im Sinne einer Fremdzuschreibung von Seiten der Skeptiker. In 8% der Fälle wird die Verwendung als sarkatisch eingestuft. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Angela Merkel und Naomi Oreskes. Im Kontext von "Klimamafia" erfolgt die Nennung folgender Organisation(en): Exxon, UN (Skeptiker Korpus).
+__________________________________________________
+Klimamahnwache, die
+Der Begriff "Klimamahnwache" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 0 Mal von den Klimaforschungsskeptikern und 4 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.02 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell neutral konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) der Vertreter Korpus Lilly Herkling, Karl Bever. Im Kontext von "Klimamahnwache" erfolgt die Nennung folgender Organisation(en): Holzmarkt Kaarst, Franziskusplatz Fritzlar (Vertreter Korpus).
+Häufige Kollokationen:  'Infopoint', 'Brunnen' (Vertreter)
+__________________________________________________
+Klimamanipulation, die
+Der Begriff "Klimamanipulation" bezeichnet eine Aktion im Bezug auf den Klimawandel. Der Begriff wird in unserem Korpus 1 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Kevin Trenberth.
+__________________________________________________
+Klimamantra, das
+Der Begriff "Klimamantra" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 2 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.02 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell neutral konnotiert. Im Kontext von "Klimamantra" erfolgt die Nennung folgender Organisation(en): Spiegel (Skeptiker Korpus).
+Häufige Kollokationen: 'schon', 'laufen' (Skeptiker) 
+__________________________________________________
+Klimamilliardär, der
+Der Begriff "Klimamilliardär" bezeichnet eine Person, die eine Haltung zum Klimawandel einnimmt. Der Begriff wird in unserem Korpus 2 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.02 für die Skeptiker und 0.0 für die Vertreter. Verwendet wird "Klimamilliardär" hierbei im Sinne einer Fremdzuschreibung von Seiten der Skeptiker. In 0% der Fälle wird die Verwendung als sarkatisch eingestuft. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert. Modifizierer wie 'erster' treten häufig auf, um den Begriff im Subdiskurs der Klimaforschungsskeptiker näher zu beschreiben. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Harald Lesch und Anders Levermann. Im Kontext von "Klimamilliardär" erfolgt die Nennung folgender Organisation(en): Neue Zürcher Zeitung, PIK (Skeptiker Korpus).
+
+Siehe auch: Klimamacher
+Häufige Kollokationen: 'erster' (Skeptiker) 
+__________________________________________________
+Klimamisere, die
+Der Begriff "Klimamisere" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 1 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell neutral konnotiert.
+__________________________________________________
+Klimamonster, das
+Der Begriff "Klimamonster" bezeichnet eine Person, die eine Haltung zum Klimawandel einnimmt. Der Begriff wird in unserem Korpus 1 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. Verwendet wird "Klimamonster" hierbei im Sinne einer Fremdzuschreibung von Seiten der Skeptiker. In 0% der Fälle wird die Verwendung als sarkatisch eingestuft. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert. Im Kontext von "Klimamonster" erfolgt die Nennung folgender Organisation(en): UN (Skeptiker Korpus).
+
+Siehe auch: Klimateufel
+__________________________________________________
+Klimamutti, die
+Der Begriff "Klimamutti" bezeichnet eine Person, die eine Haltung zum Klimawandel einnimmt. Der Begriff wird in unserem Korpus 1 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. Verwendet wird "Klimamutti" hierbei im Sinne einer Fremdzuschreibung von Seiten der Skeptiker. In 0% der Fälle wird die Verwendung als sarkatisch eingestuft. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert. Im Kontext von "Klimamutti" erfolgt die Nennung folgender Organisation(en): Die Grünen (Skeptiker Korpus).
+__________________________________________________
+Klimamärchenonkel, der
+Der Begriff "Klimamärchenonkel" bezeichnet eine Person, die eine Haltung zum Klimawandel einnimmt. Der Begriff wird in unserem Korpus 2 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.02 für die Skeptiker und 0.0 für die Vertreter. Verwendet wird "Klimamärchenonkel" hierbei im Sinne einer Fremdzuschreibung von Seiten der Skeptiker. In 0% der Fälle wird die Verwendung als sarkatisch eingestuft. In unserem Korpus Sample ist der Begriff tendenziell neutral konnotiert. Im Kontext von "Klimamärchenonkel" erfolgt die Nennung folgender Organisation(en): IPCC, ARD (Skeptiker Korpus).
+__________________________________________________
+Klimanationalismus, der
+Der Begriff "Klimanationalismus" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 1 Mal von den Klimaforschungsskeptikern und 12 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.07 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell neutral konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Olaf Scholz und Angela Merkel und der Vertreter Korpus Yannick Passeick und Lukas Nicolaisen. Im Kontext von "Klimanationalismus" erfolgt die Nennung folgender Organisation(en): IEA, TE (Skeptiker Korpus) und FARN, Naturfreunde (Vertreter Korpus).
+Häufige Kollokationen:  'Klimawandelleugnung' (Vertreter)
+__________________________________________________
+Klimanonsens, der
+Der Begriff "Klimanonsens" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 1 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert. Im Kontext von "Klimanonsens" erfolgt die Nennung folgender Organisation(en): SPD, Linke (Skeptiker Korpus).
+__________________________________________________
+Klimanotfall, der
+Der Begriff "Klimanotfall" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 6 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.07 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert. Modifizierer wie 'kein' treten häufig auf, um den Begriff im Subdiskurs der Klimaforschungsskeptiker näher zu beschreiben. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Allan MacRae und Joseph Kraig. Im Kontext von "Klimanotfall" erfolgt die Nennung folgender Organisation(en): American Meteorological Society, ABC (Skeptiker Korpus).
+
+Siehe auch: Klimanotlage
+Häufige Kollokationen: 'geben', 'gekocht' (Skeptiker) 
+__________________________________________________
+Klimanotlage, die
+Der Begriff "Klimanotlage" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 6 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.07 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Claudia Kemfert. Im Kontext von "Klimanotlage" erfolgt die Nennung folgender Organisation(en): PIK, SPD (Skeptiker Korpus).
+
+Siehe auch: Klimanotfall
+Häufige Kollokationen: 'Bremen', 'rotgrünrot' (Skeptiker) 
+__________________________________________________
+Klimanotstandsregierung, die
+Der Begriff "Klimanotstandsregierung" bezeichnet einen Zusammenschluss von Personen im Bezug auf den Klimawandel. Der Begriff wird in unserem Korpus 0 Mal von den Klimaforschungsskeptikern und 6 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.05 für die Vertreter. Verwendet wird "Klimanotstandsregierung" hierbei im Sinne einer Selbstzuschreibung von Seiten der Vertreter. In 0% der Fälle wird die Verwendung als sarkatisch eingestuft. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert. Im Subdiskurs der Klimaforschungsvertreter wird der Begriff von Wörtern wie 'gut' und 'noch' modifiziert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) der Vertreter Korpus Angela Picciariello, Elena Köhn. Im Kontext von "Klimanotstandsregierung" erfolgt die Nennung folgender Organisation(en): Overseas Development Institute, IISD (Vertreter Korpus).
+Häufige Kollokationen:  'gut' (Vertreter)
+__________________________________________________
+Klimaorthodoxie, die
+Der Begriff "Klimaorthodoxie" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 3 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.03 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell neutral konnotiert.
+__________________________________________________
+Klimapanik, die
+Der Begriff "Klimapanik" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 12 Mal von den Klimaforschungsskeptikern und 2 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.15 für die Skeptiker und 0.01 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell neutral konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Michael Shellenberger und Harald Lesch und der Vertreter Korpus Wolf Dieter Storl und Karl Popper. Im Kontext von "Klimapanik" erfolgt die Nennung folgender Organisation(en): Spiegel, IPCC (Skeptiker Korpus) und FFF, TU Berlin (Vertreter Korpus).
+Häufige Kollokationen: 'Kind', 'Auswirkung' (Skeptiker) 
+__________________________________________________
+Klimapanikmache, die
+Der Begriff "Klimapanikmache" bezeichnet eine Aktion im Bezug auf den Klimawandel. Der Begriff wird in unserem Korpus 4 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.05 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Ivar Giaever und Christian Endt. Im Kontext von "Klimapanikmache" erfolgt die Nennung folgender Organisation(en): Spiegel, KGB (Skeptiker Korpus).
+Häufige Kollokationen: 'aktiv', 'gefallen' (Skeptiker) 
+__________________________________________________
+Klimapapst, der
+Der Begriff "Klimapapst" bezeichnet eine Person, die eine Haltung zum Klimawandel einnimmt. Der Begriff wird in unserem Korpus 7 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.08 für die Skeptiker und 0.0 für die Vertreter. Verwendet wird "Klimapapst" hierbei im Sinne einer Fremdzuschreibung von Seiten der Skeptiker. In 40% der Fälle wird die Verwendung als sarkatisch eingestuft. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Holger Narrog und Angela Merkel. Im Kontext von "Klimapapst" erfolgt die Nennung folgender Organisation(en): FDP, Die Grünen (Skeptiker Korpus).
+
+Siehe auch: Klimapäpstin
+Häufige Kollokationen: 'Schellnhuber' (Skeptiker) 
+__________________________________________________
+Klimaparadies, das
+Der Begriff "Klimaparadies" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 1 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell neutral konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Valentina Zharkova.
+__________________________________________________
+Klimapflicht, die
+Der Begriff "Klimapflicht" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 1 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell neutral konnotiert.
+__________________________________________________
+Klimaplanwirtschaft, die
+Der Begriff "Klimaplanwirtschaft" bezeichnet einen Zusammenschluss von Personen im Bezug auf den Klimawandel. Der Begriff wird in unserem Korpus 1 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. Verwendet wird "Klimaplanwirtschaft" hierbei im Sinne einer Fremdzuschreibung von Seiten der Skeptiker. In 0% der Fälle wird die Verwendung als sarkatisch eingestuft. In unserem Korpus Sample ist der Begriff tendenziell positiv konnotiert.
+__________________________________________________
+Klimapolemik, die
+Der Begriff "Klimapolemik" bezeichnet eine Aktion im Bezug auf den Klimawandel. Der Begriff wird in unserem Korpus 1 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell neutral konnotiert. Im Kontext von "Klimapolemik" erfolgt die Nennung folgender Organisation(en): EIKE (Skeptiker Korpus).
+__________________________________________________
+Klimapopulismus, der
+Der Begriff "Klimapopulismus" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 1 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell neutral konnotiert. Im Kontext von "Klimapopulismus" erfolgt die Nennung folgender Organisation(en): FAZ (Skeptiker Korpus).
+__________________________________________________
+Klimaprediger, der
+Der Begriff "Klimaprediger" bezeichnet eine Person, die eine Haltung zum Klimawandel einnimmt. Der Begriff wird in unserem Korpus 3 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.03 für die Skeptiker und 0.0 für die Vertreter. Verwendet wird "Klimaprediger" hierbei im Sinne einer Fremdzuschreibung von Seiten der Skeptiker. In 0% der Fälle wird die Verwendung als sarkatisch eingestuft. In unserem Korpus Sample ist der Begriff tendenziell neutral konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Mojib Latif. Im Kontext von "Klimaprediger" erfolgt die Nennung folgender Organisation(en): SPIEGEL (Skeptiker Korpus).
+
+Siehe auch: Klimademagoge
+Häufige Kollokationen: 'Land', 'Gouverneur' (Skeptiker) 
+__________________________________________________
+Klimapresse, die
+Der Begriff "Klimapresse" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 1 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell neutral konnotiert. Im Kontext von "Klimapresse" erfolgt die Nennung folgender Organisation(en): Daimler (Skeptiker Korpus).
+__________________________________________________
+Klimaprofessor, der
+Der Begriff "Klimaprofessor" bezeichnet eine Person, die eine Haltung zum Klimawandel einnimmt. Der Begriff wird in unserem Korpus 4 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.05 für die Skeptiker und 0.0 für die Vertreter. Verwendet wird "Klimaprofessor" hierbei im Sinne einer Fremdzuschreibung von Seiten der Skeptiker. In 0% der Fälle wird die Verwendung als sarkatisch eingestuft. In unserem Korpus Sample ist der Begriff tendenziell neutral konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Angela Merkel und Peter Altmeier. Im Kontext von "Klimaprofessor" erfolgt die Nennung folgender Organisation(en): EIKE, FDP (Skeptiker Korpus).
+Häufige Kollokationen: 'plaudern', 'Wärmeinseleffekt' (Skeptiker) 
+__________________________________________________
+Klimaprofiteur, der
+Der Begriff "Klimaprofiteur" bezeichnet eine Person, die eine Haltung zum Klimawandel einnimmt. Der Begriff wird in unserem Korpus 2 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.02 für die Skeptiker und 0.0 für die Vertreter. Verwendet wird "Klimaprofiteur" hierbei im Sinne einer Fremdzuschreibung von Seiten der Skeptiker. In 0% der Fälle wird die Verwendung als sarkatisch eingestuft. In unserem Korpus Sample ist der Begriff tendenziell neutral konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Chris Masters und Michael Bastasch. Im Kontext von "Klimaprofiteur" erfolgt die Nennung folgender Organisation(en): Clean Energy Council, STT (Skeptiker Korpus).
+__________________________________________________
+Klimapropaganda, die
+Der Begriff "Klimapropaganda" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 11 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.13 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell neutral konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Donald Trump und Angela Merkel. Im Kontext von "Klimapropaganda" erfolgt die Nennung folgender Organisation(en): PIK, ARD (Skeptiker Korpus).
+
+Siehe auch: Klimapropagandafilm, Klimapropagandist
+__________________________________________________
+Klimapropagandafilm, der
+Der Begriff "Klimapropagandafilm" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 2 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.02 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell neutral konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Donald Trump. Im Kontext von "Klimapropagandafilm" erfolgt die Nennung folgender Organisation(en): EIKE, ARD (Skeptiker Korpus).
+
+Siehe auch: Klimapropagandist
+__________________________________________________
+Klimapropagandist, der
+Der Begriff "Klimapropagandist" bezeichnet eine Person, die eine Haltung zum Klimawandel einnimmt. Der Begriff wird in unserem Korpus 2 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.02 für die Skeptiker und 0.0 für die Vertreter. Verwendet wird "Klimapropagandist" hierbei im Sinne einer Fremdzuschreibung von Seiten der Skeptiker. In 0% der Fälle wird die Verwendung als sarkatisch eingestuft. In unserem Korpus Sample ist der Begriff tendenziell neutral konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Michael Mann und Michael Limburg.
+
+Siehe auch: Klimapropagandafilm, Klimapropaganda
+__________________________________________________
+Klimaprotestler, der
+Der Begriff "Klimaprotestler" bezeichnet eine Person, die eine Haltung zum Klimawandel einnimmt. Der Begriff wird in unserem Korpus 1 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. Verwendet wird "Klimaprotestler" hierbei im Sinne einer Fremdzuschreibung von Seiten der Skeptiker. In 0% der Fälle wird die Verwendung als sarkatisch eingestuft. In unserem Korpus Sample ist der Begriff tendenziell neutral konnotiert. Im Kontext von "Klimaprotestler" erfolgt die Nennung folgender Organisation(en): IEA (Skeptiker Korpus).
+__________________________________________________
+Klimapseudowissenschaft, die
+Der Begriff "Klimapseudowissenschaft" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 1 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell neutral konnotiert.
+__________________________________________________
+Klimapäckchen, das
+Der Begriff "Klimapäckchen" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 0 Mal von den Klimaforschungsskeptikern und 9 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.06 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell neutral konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) der Vertreter Korpus Angela Merkel, Jürgen Liebenstein. Im Kontext von "Klimapäckchen" erfolgt die Nennung folgender Organisation(en): FFF, Die Grünen (Vertreter Korpus).
+Häufige Kollokationen:  'Bundesregierung' (Vertreter)
+__________________________________________________
+Klimapäpstin, die
+Der Begriff "Klimapäpstin" bezeichnet eine Person, die eine Haltung zum Klimawandel einnimmt. Der Begriff wird in unserem Korpus 1 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. Verwendet wird "Klimapäpstin" hierbei im Sinne einer Fremdzuschreibung von Seiten der Skeptiker. In 0% der Fälle wird die Verwendung als sarkatisch eingestuft. In unserem Korpus Sample ist der Begriff tendenziell neutral konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Barbara Hendricks. Im Kontext von "Klimapäpstin" erfolgt die Nennung folgender Organisation(en): EIKE, WDR (Skeptiker Korpus).
+
+Siehe auch: Klimapapst
+__________________________________________________
+Klimaquatsch, der
+Der Begriff "Klimaquatsch" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 12 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.18 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Barack Obama und Hanna Thiele. Im Kontext von "Klimaquatsch" erfolgt die Nennung folgender Organisation(en): NATO, CDU (Skeptiker Korpus).
+
+Siehe auch: Klimaunsinn, Klimaunfug, Klimakäse, Klimablödsinn, Klimagefasel
+Häufige Kollokationen: 'Clinton', 'europäer' (Skeptiker) 
+__________________________________________________
+Klimarealismus, der
+Der Begriff "Klimarealismus" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 3 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.03 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell neutral konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Sterling Burnett und Naomi Seibt. Im Kontext von "Klimarealismus" erfolgt die Nennung folgender Organisation(en): Heartland Institute, Antifa (Skeptiker Korpus).
+
+Siehe auch: Klimarealist
+__________________________________________________
+Klimarealist, der
+Der Begriff "Klimarealist" bezeichnet eine Person, die eine Haltung zum Klimawandel einnimmt. Der Begriff wird in unserem Korpus 29 Mal von den Klimaforschungsskeptikern und 1 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.31 für die Skeptiker und 0.0 für die Vertreter. Verwendet wird "Klimarealist" hierbei im Sinne einer Selbstzuschreibung von Seiten der Skeptiker und als Fremdzuschreibung im Vetreter Korpus. In 0% (Vertreter Diskurs) und 0% (Skeptiker Diskurs) der Fälle wird die Verwendung als sarkatisch eingestuft. In unserem Korpus Sample ist der Begriff tendenziell neutral konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Michael Limburg und Horst-Joachim Lüdecke und der Vertreter Korpus Donald Trump. Im Kontext von "Klimarealist" erfolgt die Nennung folgender Organisation(en): EPA, IPCC (Skeptiker Korpus).
+
+Siehe auch: Klimarealismus
+Häufige Kollokationen: 'Argument', 'z.b.' (Skeptiker) 
+__________________________________________________
+Klimareligion, die
+Der Begriff "Klimareligion" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 39 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.39 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell neutral konnotiert. Modifizierer wie 'grün' und 'richtig' treten häufig auf, um den Begriff im Subdiskurs der Klimaforschungsskeptiker näher zu beschreiben. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Angela Merkel und Greta Thunberg. Im Kontext von "Klimareligion" erfolgt die Nennung folgender Organisation(en): EIKE, PIK (Skeptiker Korpus).
+Häufige Kollokationen: 'sogar', 'grün' (Skeptiker) 
+__________________________________________________
+Klimaretter, der
+Der Begriff "Klimaretter" bezeichnet eine Person, die eine Haltung zum Klimawandel einnimmt. Der Begriff wird in unserem Korpus 85 Mal von den Klimaforschungsskeptikern und 6 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.77 für die Skeptiker und 0.03 für die Vertreter. Verwendet wird "Klimaretter" hierbei im Sinne einer Fremdzuschreibung von Seiten der Skeptiker und als Selbstzuschreibung im Vetreter Korpus. In 0% (Vertreter Diskurs) und 9% (Skeptiker Diskurs) der Fälle wird die Verwendung als sarkatisch eingestuft. In unserem Korpus Sample ist der Begriff tendenziell positiv konnotiert. Im Subdiskurs der Klimaforschungsvertreter wird der Begriff von Wörtern wie 'engagiert' modifiziert. Modifizierer wie 'deutsch' treten häufig auf, um den Begriff im Subdiskurs der Klimaforschungsskeptiker näher zu beschreiben. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Claudia Kemfert und Sigmar Gabriel und der Vertreter Korpus Jair Bolsonaro und Angela Merkel. Im Kontext von "Klimaretter" erfolgt die Nennung folgender Organisation(en): EIKE, PIK (Skeptiker Korpus) und Hannover Hallo, Giervergorenheit (Vertreter Korpus).
+
+Siehe auch: Klimaretterin
+Häufige Kollokationen: 'Lebensretter', 'Portal' (Skeptiker) 
+__________________________________________________
+Klimaretterin, die
+Der Begriff "Klimaretterin" bezeichnet eine Person, die eine Haltung zum Klimawandel einnimmt. Der Begriff wird in unserem Korpus 2 Mal von den Klimaforschungsskeptikern und 2 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.02 für die Skeptiker und 0.01 für die Vertreter. Verwendet wird "Klimaretterin" hierbei im Sinne einer Fremdzuschreibung von Seiten der Skeptiker und als Selbstzuschreibung im Vetreter Korpus. In 0% (Vertreter Diskurs) und 0% (Skeptiker Diskurs) der Fälle wird die Verwendung als sarkatisch eingestuft. In unserem Korpus Sample ist der Begriff tendenziell positiv konnotiert. Im Subdiskurs der Klimaforschungsvertreter wird der Begriff von Wörtern wie 'engagiert' modifiziert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Silke Mikosch und der Vertreter Korpus Jair Bolsonaro. Im Kontext von "Klimaretterin" erfolgt die Nennung folgender Organisation(en): Hannover Hallo, Giervergorenheit (Vertreter Korpus).
+
+Siehe auch: Klimaretter
+Häufige Kollokationen:  'engagiert' (Vertreter)
+__________________________________________________
+Klimarettung, die
+Der Begriff "Klimarettung" bezeichnet eine Aktion im Bezug auf den Klimawandel. Der Begriff wird in unserem Korpus 48 Mal von den Klimaforschungsskeptikern und 13 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.46 für die Skeptiker und 0.08 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell positiv konnotiert. Modifizierer wie 'sogenannter' und 'angeblich' treten häufig auf, um den Begriff im Subdiskurs der Klimaforschungsskeptiker näher zu beschreiben. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Robert Habeck und Hans Joachim Schellnhuber und der Vertreter Korpus Greta Thunberg und Henrik Peitsch. Im Kontext von "Klimarettung" erfolgt die Nennung folgender Organisation(en): EIKE, CSU (Skeptiker Korpus) und FFF, HaferdrinkHersteller (Vertreter Korpus).
+Häufige Kollokationen: 'elektrisch', 'sogenannter' (Skeptiker) und 'serie' (Vertreter)
+__________________________________________________
+Klimascharade, die
+Der Begriff "Klimascharade" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 1 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) John Kerry. Im Kontext von "Klimascharade" erfolgt die Nennung folgender Organisation(en): UN (Skeptiker Korpus).
+__________________________________________________
+Klimaschiff, das
+Der Begriff "Klimaschiff" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 1 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Stefan Kämpfe und Svenja Schulze.
+__________________________________________________
+Klimaschmerz, der
+Der Begriff "Klimaschmerz" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 1 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert. Im Kontext von "Klimaschmerz" erfolgt die Nennung folgender Organisation(en): KLIWA, Bayerisches Landesamt für Umwelt (Skeptiker Korpus).
+__________________________________________________
+Klimaschrecken, der
+Der Begriff "Klimaschrecken" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 1 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell neutral konnotiert. Im Kontext von "Klimaschrecken" erfolgt die Nennung folgender Organisation(en): NASA, National Oceanic and Atmospheric Administration (Skeptiker Korpus).
+__________________________________________________
+Klimaschuld, die
+Der Begriff "Klimaschuld" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 1 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert. Im Kontext von "Klimaschuld" erfolgt die Nennung folgender Organisation(en): OECD (Skeptiker Korpus).
+__________________________________________________
+Klimaschwachsinn, der
+Der Begriff "Klimaschwachsinn" bezeichnet eine Aktion im Bezug auf den Klimawandel. Der Begriff wird in unserem Korpus 1 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert. Im Kontext von "Klimaschwachsinn" erfolgt die Nennung folgender Organisation(en): FAZ, SPIEGEL (Skeptiker Korpus).
+
+Siehe auch: Klimaverrücktheit, Klimairrsinn, Klimawahnsinn
+__________________________________________________
+Klimaschwindel, der
+Der Begriff "Klimaschwindel" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 19 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.21 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Donald Trump und Doris Leuthard. Im Kontext von "Klimaschwindel" erfolgt die Nennung folgender Organisation(en): ARD, IPCC (Skeptiker Korpus).
+
+Siehe auch: Klimaschwindler
+Häufige Kollokationen: 'ganz' (Skeptiker) 
+__________________________________________________
+Klimaschwindler, der
+Der Begriff "Klimaschwindler" bezeichnet eine Person, die eine Haltung zum Klimawandel einnimmt. Der Begriff wird in unserem Korpus 4 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.05 für die Skeptiker und 0.0 für die Vertreter. Verwendet wird "Klimaschwindler" hierbei im Sinne einer Fremdzuschreibung von Seiten der Skeptiker. In 75% der Fälle wird die Verwendung als sarkatisch eingestuft. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Marc Morano und Gerhard Wisnewski. Im Kontext von "Klimaschwindler" erfolgt die Nennung folgender Organisation(en): Greenpeace (Skeptiker Korpus).
+
+Siehe auch: Klimaschwindel, Klimabetrüger
+Häufige Kollokationen: 'Argument', 'zunichtemachen' (Skeptiker) 
+__________________________________________________
+Klimaschänder, der
+Der Begriff "Klimaschänder" bezeichnet eine Person, die eine Haltung zum Klimawandel einnimmt. Der Begriff wird in unserem Korpus 0 Mal von den Klimaforschungsskeptikern und 1 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. Verwendet wird "Klimaschänder" hierbei im Sinne einer Fremdzuschreibung von Seiten der Vertreter. In 0% der Fälle wird die Verwendung als sarkatisch eingestuft. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert.
+
+Siehe auch: Klimaschändung
+__________________________________________________
+Klimaschändung, die
+Der Begriff "Klimaschändung" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 0 Mal von den Klimaforschungsskeptikern und 1 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert.
+
+Siehe auch: Klimaschänder
+__________________________________________________
+Klimasekte, die
+Der Begriff "Klimasekte" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 3 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.03 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Lawrence Solomon und William Michael Connolley. Im Kontext von "Klimasekte" erfolgt die Nennung folgender Organisation(en): DWD, OnlineNachschlagewerk (Skeptiker Korpus).
+
+Siehe auch: Klimasektierer
+__________________________________________________
+Klimasektierer, der
+Der Begriff "Klimasektierer" bezeichnet eine Person, die eine Haltung zum Klimawandel einnimmt. Der Begriff wird in unserem Korpus 1 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. Verwendet wird "Klimasektierer" hierbei im Sinne einer Fremdzuschreibung von Seiten der Skeptiker. In 0% der Fälle wird die Verwendung als sarkatisch eingestuft. In unserem Korpus Sample ist der Begriff tendenziell neutral konnotiert. Im Kontext von "Klimasektierer" erfolgt die Nennung folgender Organisation(en): NWO (Skeptiker Korpus).
+
+Siehe auch: Klimasekte, Klimaanbeter
+__________________________________________________
+Klimashow, die
+Der Begriff "Klimashow" bezeichnet eine Aktion im Bezug auf den Klimawandel. Der Begriff wird in unserem Korpus 1 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell neutral konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Emmanuel Macron. Im Kontext von "Klimashow" erfolgt die Nennung folgender Organisation(en): SPD, Die Grünen (Skeptiker Korpus).
+
+Siehe auch: Klimakrieg, Klimakabarett, Klimakontroverse, Klimazirkus
+__________________________________________________
+Klimaskepsis, die
+Der Begriff "Klimaskepsis" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 4 Mal von den Klimaforschungsskeptikern und 2 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.04 für die Skeptiker und 0.01 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Jennifer Rezny und Mariella Gittler und der Vertreter Korpus Marion Andert. Im Kontext von "Klimaskepsis" erfolgt die Nennung folgender Organisation(en): EIKE, ORF (Skeptiker Korpus) und demokratischen Natur- und Umweltschutzes, Naturfreunde (Vertreter Korpus).
+Häufige Kollokationen:  'Klimaleugnung', 'zeigen' (Vertreter)
+__________________________________________________
+Klimaskeptiker, der
+Der Begriff "Klimaskeptiker" bezeichnet eine Person, die eine Haltung zum Klimawandel einnimmt. Der Begriff wird in unserem Korpus 122 Mal von den Klimaforschungsskeptikern und 10 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 1.0 für die Skeptiker und 0.06 für die Vertreter. Verwendet wird "Klimaskeptiker" hierbei im Sinne einer Selbstzuschreibung von Seiten der Skeptiker und als Fremdzuschreibung im Vetreter Korpus. In 11% (Vertreter Diskurs) und 9% (Skeptiker Diskurs) der Fälle wird die Verwendung als sarkatisch eingestuft. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert. Modifizierer wie 'sogenannter' und 'kein' treten häufig auf, um den Begriff im Subdiskurs der Klimaforschungsskeptiker näher zu beschreiben. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Donald Trump und Barack Obama und der Vertreter Korpus Eckart John und Stefan Rahmstorf. Im Kontext von "Klimaskeptiker" erfolgt die Nennung folgender Organisation(en): EIKE, IPCC (Skeptiker Korpus) und IPCC, BVKS (Vertreter Korpus).
+
+Siehe auch: Klimabremser, Klimaskeptikerin
+Häufige Kollokationen: 'lassen', 'sogenannter' (Skeptiker) 
+__________________________________________________
+Klimaskeptikerin, die
+Der Begriff "Klimaskeptikerin" bezeichnet eine Person, die eine Haltung zum Klimawandel einnimmt. Der Begriff wird in unserem Korpus 1 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. Verwendet wird "Klimaskeptikerin" hierbei im Sinne einer Selbstzuschreibung von Seiten der Skeptiker. In 0% der Fälle wird die Verwendung als sarkatisch eingestuft. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert. Im Kontext von "Klimaskeptikerin" erfolgt die Nennung folgender Organisation(en): EIKE (Skeptiker Korpus).
+
+Siehe auch: Klimaskeptiker
+__________________________________________________
+Klimaskeptizismus, der
+Der Begriff "Klimaskeptizismus" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 4 Mal von den Klimaforschungsskeptikern und 1 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.04 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Jair Bolsonaro und Angela Merkel und der Vertreter Korpus Felix Riedel. Im Kontext von "Klimaskeptizismus" erfolgt die Nennung folgender Organisation(en): Europäische Union, National Geographic (Skeptiker Korpus) und Climate Change Deniers and Advocacy (Vertreter Korpus).
+__________________________________________________
+Klimasozialismus, der
+Der Begriff "Klimasozialismus" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 4 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.04 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Angela Merkel und Hanna Thiele. Im Kontext von "Klimasozialismus" erfolgt die Nennung folgender Organisation(en): AFD, FAZ (Skeptiker Korpus).
+__________________________________________________
+Klimaspinner, der
+Der Begriff "Klimaspinner" bezeichnet eine Person, die eine Haltung zum Klimawandel einnimmt. Der Begriff wird in unserem Korpus 4 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.04 für die Skeptiker und 0.0 für die Vertreter. Verwendet wird "Klimaspinner" hierbei im Sinne einer Fremdzuschreibung von Seiten der Skeptiker. In 0% der Fälle wird die Verwendung als sarkatisch eingestuft. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Angela Merkel. Im Kontext von "Klimaspinner" erfolgt die Nennung folgender Organisation(en): MSM, CDU (Skeptiker Korpus).
+__________________________________________________
+Klimastaat, der
+Der Begriff "Klimastaat" bezeichnet einen Zusammenschluss von Personen im Bezug auf den Klimawandel. Der Begriff wird in unserem Korpus 1 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. Verwendet wird "Klimastaat" hierbei im Sinne einer Fremdzuschreibung von Seiten der Skeptiker. In 0% der Fälle wird die Verwendung als sarkatisch eingestuft. In unserem Korpus Sample ist der Begriff tendenziell neutral konnotiert.
+
+Siehe auch: Klimavatikan
+__________________________________________________
+Klimastopp, der
+Der Begriff "Klimastopp" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 0 Mal von den Klimaforschungsskeptikern und 1 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert.
+__________________________________________________
+Klimastreit, der
+Der Begriff "Klimastreit" bezeichnet eine Aktion im Bezug auf den Klimawandel. Der Begriff wird in unserem Korpus 2 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.02 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Greta Thunberg und Thomas Stocker. Im Kontext von "Klimastreit" erfolgt die Nennung folgender Organisation(en): IPCC, SRF (Skeptiker Korpus) und deutschen Bundestag (Vertreter Korpus).
+
+Siehe auch: Klimastreiter
+__________________________________________________
+Klimastreiter, der
+Der Begriff "Klimastreiter" bezeichnet eine Person, die eine Haltung zum Klimawandel einnimmt. Der Begriff wird in unserem Korpus 0 Mal von den Klimaforschungsskeptikern und 1 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. Verwendet wird "Klimastreiter" hierbei im Sinne einer Selbstzuschreibung von Seiten der Vertreter. In 0% der Fälle wird die Verwendung als sarkatisch eingestuft. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert. Im Kontext von "Klimastreiter" erfolgt die Nennung folgender Organisation(en): deutschen Bundestag (Vertreter Korpus).
+
+Siehe auch: Klimakrieger, Klimastreit
+__________________________________________________
+Klimataliban, der
+Der Begriff "Klimataliban" bezeichnet einen Zusammenschluss von Personen im Bezug auf den Klimawandel. Der Begriff wird in unserem Korpus 1 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. Verwendet wird "Klimataliban" hierbei im Sinne einer Fremdzuschreibung von Seiten der Skeptiker. In 0% der Fälle wird die Verwendung als sarkatisch eingestuft. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert.
+__________________________________________________
+Klimateppich, der
+Der Begriff "Klimateppich" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 1 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell neutral konnotiert. Im Kontext von "Klimateppich" erfolgt die Nennung folgender Organisation(en): der Grünen, Commerzbank (Skeptiker Korpus).
+__________________________________________________
+Klimateufel, der
+Der Begriff "Klimateufel" bezeichnet eine Person, die eine Haltung zum Klimawandel einnimmt. Der Begriff wird in unserem Korpus 1 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. Verwendet wird "Klimateufel" hierbei im Sinne einer Fremdzuschreibung von Seiten der Skeptiker. In 0% der Fälle wird die Verwendung als sarkatisch eingestuft. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Michael Jost. Im Kontext von "Klimateufel" erfolgt die Nennung folgender Organisation(en): Daimler, Siemens (Skeptiker Korpus).
+
+Siehe auch: Klimamonster
+__________________________________________________
+Klimatheater, das
+Der Begriff "Klimatheater" bezeichnet eine Aktion im Bezug auf den Klimawandel. Der Begriff wird in unserem Korpus 1 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell neutral konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Malena Ernman und Greta Thunberg. Im Kontext von "Klimatheater" erfolgt die Nennung folgender Organisation(en): UNO, Bundestag (Skeptiker Korpus).
+__________________________________________________
+Klimatheologie, die
+Der Begriff "Klimatheologie" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 1 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell neutral konnotiert.
+__________________________________________________
+Klimatod, der
+Der Begriff "Klimatod" bezeichnet eine Aktion im Bezug auf den Klimawandel. Der Begriff wird in unserem Korpus 5 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.06 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Greta Thunberg und Hans Joachim Schellnhuber. Im Kontext von "Klimatod" erfolgt die Nennung folgender Organisation(en): UN, EIKE (Skeptiker Korpus).
+Häufige Kollokationen: 'sterben' (Skeptiker) 
+__________________________________________________
+Klimatrash, der
+Der Begriff "Klimatrash" bezeichnet einen Zusammenschluss von Personen im Bezug auf den Klimawandel. Der Begriff wird in unserem Korpus 1 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. Verwendet wird "Klimatrash" hierbei im Sinne einer  In  In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert. Im Kontext von "Klimatrash" erfolgt die Nennung folgender Organisation(en): ZDF, Bayerische Rundfunk (Skeptiker Korpus).
+__________________________________________________
+Klimatraumatisierung, die
+Der Begriff "Klimatraumatisierung" bezeichnet eine Aktion im Bezug auf den Klimawandel. Der Begriff wird in unserem Korpus 3 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.03 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Frank-Walter Steinmeier und Bill McKibben. Im Kontext von "Klimatraumatisierung" erfolgt die Nennung folgender Organisation(en): EIKE, Spiegel Online (Skeptiker Korpus).
+Häufige Kollokationen: 'Phase', 'EIKE' (Skeptiker) 
+__________________________________________________
+Klimatrip, der
+Der Begriff "Klimatrip" bezeichnet eine Aktion im Bezug auf den Klimawandel. Der Begriff wird in unserem Korpus 1 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell neutral konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Luisa Neubauer. Im Kontext von "Klimatrip" erfolgt die Nennung folgender Organisation(en): Volkswagen (Skeptiker Korpus).
+__________________________________________________
+Klimatyrannei, die
+Der Begriff "Klimatyrannei" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 1 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert.
+
+Siehe auch: Klimadiktatur
+__________________________________________________
+Klimaunfug, der
+Der Begriff "Klimaunfug" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 1 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert. Im Kontext von "Klimaunfug" erfolgt die Nennung folgender Organisation(en): EIKE (Skeptiker Korpus).
+
+Siehe auch: Klimaunsinn, Klimaquatsch, Klimakäse, Klimablödsinn, Klimagefasel
+__________________________________________________
+Klimaunfähigkeit, die
+Der Begriff "Klimaunfähigkeit" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 0 Mal von den Klimaforschungsskeptikern und 1 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert.
+__________________________________________________
+Klimaungerechtigkeit, die
+Der Begriff "Klimaungerechtigkeit" bezeichnet eine Aktion im Bezug auf den Klimawandel. Der Begriff wird in unserem Korpus 0 Mal von den Klimaforschungsskeptikern und 2 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.01 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert. Im Kontext von "Klimaungerechtigkeit" erfolgt die Nennung folgender Organisation(en): WFP, Shell (Vertreter Korpus).
+
+Siehe auch: Klimagerechtigkeit
+__________________________________________________
+Klimaunsinn, der
+Der Begriff "Klimaunsinn" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 3 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.03 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert. Im Kontext von "Klimaunsinn" erfolgt die Nennung folgender Organisation(en): SPIEGEL, EIKE (Skeptiker Korpus).
+
+Siehe auch: Klimaquatsch, Klimaunfug, Klimakäse, Klimablödsinn, Klimagefasel
+__________________________________________________
+Klimauntergang, der
+Der Begriff "Klimauntergang" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 5 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.06 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Hans Joachim Schellnhuber und Ottmar Edenhofer. Im Kontext von "Klimauntergang" erfolgt die Nennung folgender Organisation(en): PIK, Union of Concerned Scientists (Skeptiker Korpus).
+
+Siehe auch: Klimaapokalypse, Klimaarmageddon
+__________________________________________________
+Klimavatikan, der
+Der Begriff "Klimavatikan" wird in unserem Korpus 2 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.02 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Ottmar Edenhofer und Stefan Rahmstorf. Im Kontext von "Klimavatikan" erfolgt die Nennung folgender Organisation(en): PIK, Deutschen Institut für Wirtschaftsforschung (Skeptiker Korpus).
+
+Siehe auch: Klimastaat
+__________________________________________________
+Klimaverblödung, die
+Der Begriff "Klimaverblödung" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 2 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.02 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell neutral konnotiert.
+__________________________________________________
+Klimaverbrechen, das
+Der Begriff "Klimaverbrechen" bezeichnet eine Aktion im Bezug auf den Klimawandel. Der Begriff wird in unserem Korpus 1 Mal von den Klimaforschungsskeptikern und 1 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Lisa Göldner und der Vertreter Korpus Ronja Weil. Im Kontext von "Klimaverbrechen" erfolgt die Nennung folgender Organisation(en): Financial Times (Skeptiker Korpus) und RWE, Die Grünen (Vertreter Korpus).
+
+Siehe auch: Klimaverbrecher, Klimabetrug
+__________________________________________________
+Klimaverbrecher, der
+Der Begriff "Klimaverbrecher" bezeichnet eine Person, die eine Haltung zum Klimawandel einnimmt. Der Begriff wird in unserem Korpus 1 Mal von den Klimaforschungsskeptikern und 1 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. Verwendet wird "Klimaverbrecher" hierbei im Sinne einer Selbstzuschreibung von Seiten der Skeptiker und als Fremdzuschreibung im Vetreter Korpus. In 0% (Vertreter Diskurs) und 0% (Skeptiker Diskurs) der Fälle wird die Verwendung als sarkatisch eingestuft. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert. Im Kontext von "Klimaverbrecher" erfolgt die Nennung folgender Organisation(en): MINT (Skeptiker Korpus).
+
+Siehe auch: Klimagangster, Klimaverbrechen
+__________________________________________________
+Klimaverdummung, die
+Der Begriff "Klimaverdummung" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 3 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.03 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Stefan Rahmstorf.
+__________________________________________________
+Klimaverleugnung, die
+Der Begriff "Klimaverleugnung" bezeichnet eine Aktion im Bezug auf den Klimawandel. Der Begriff wird in unserem Korpus 3 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.04 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Donald Trump und Andreas Demmig.
+Häufige Kollokationen: 'Gesicht' (Skeptiker) 
+__________________________________________________
+Klimavernunft, die
+Der Begriff "Klimavernunft" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 2 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.02 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Donald Trump. Im Kontext von "Klimavernunft" erfolgt die Nennung folgender Organisation(en): EIKE, PIK (Skeptiker Korpus).
+
+Siehe auch: Klimaverstand, Klimaintelligenz
+__________________________________________________
+Klimaverrücktheit, die
+Der Begriff "Klimaverrücktheit" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 1 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell neutral konnotiert. Im Kontext von "Klimaverrücktheit" erfolgt die Nennung folgender Organisation(en): EU (Skeptiker Korpus).
+
+Siehe auch: Klimawahnsinn, Klimaschwachsinn, Klimairrsinn
+__________________________________________________
+Klimaverstand, der
+Der Begriff "Klimaverstand" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 1 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Tony Abbott. Im Kontext von "Klimaverstand" erfolgt die Nennung folgender Organisation(en): AGW, IPCC (Skeptiker Korpus).
+
+Siehe auch: Klimavernunft, Klimaintelligenz
+__________________________________________________
+Klimaverteidigung, die
+Der Begriff "Klimaverteidigung" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 1 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell neutral konnotiert.
+__________________________________________________
+Klimaverweigerung, die
+Der Begriff "Klimaverweigerung" bezeichnet eine Aktion im Bezug auf den Klimawandel. Der Begriff wird in unserem Korpus 2 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.02 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell neutral konnotiert. Modifizierer wie 'global' treten häufig auf, um den Begriff im Subdiskurs der Klimaforschungsskeptiker näher zu beschreiben. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Donald Trump und Andreas Demmig.
+Häufige Kollokationen: 'global' (Skeptiker) 
+__________________________________________________
+Klimaverwirrung, die
+Der Begriff "Klimaverwirrung" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 1 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Malena Ernman und Greta Thunberg.
+
+Siehe auch: Klimakonfusion
+__________________________________________________
+Klimavirus, 0
+Der Begriff "Klimavirus" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 1 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Michael Mann.
+__________________________________________________
+Klimawahn, der
+Der Begriff "Klimawahn" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 31 Mal von den Klimaforschungsskeptikern und 3 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.32 für die Skeptiker und 0.01 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert. Im Subdiskurs der Klimaforschungsvertreter wird der Begriff von Wörtern wie 'verschwörungsideologisch' modifiziert. Modifizierer wie 'fortgeschritten' treten häufig auf, um den Begriff im Subdiskurs der Klimaforschungsskeptiker näher zu beschreiben. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Volker Quaschning und Angela Merkel und der Vertreter Korpus Jürgen Elsässer und Michael Limburg. Im Kontext von "Klimawahn" erfolgt die Nennung folgender Organisation(en): EIKE, DWD (Skeptiker Korpus) und AFD, Blaue Narzisse (Vertreter Korpus).
+Häufige Kollokationen: 'schätzen', 'breite' (Skeptiker) und 'extrem', 'Konferenz' (Vertreter)
+__________________________________________________
+Klimawahnsinn, der
+Der Begriff "Klimawahnsinn" bezeichnet eine Aktion im Bezug auf den Klimawandel. Der Begriff wird in unserem Korpus 10 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.12 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Michael Limburg und Nikolai Tesla. Im Kontext von "Klimawahnsinn" erfolgt die Nennung folgender Organisation(en): EIKE, Europäische Union (Skeptiker Korpus).
+
+Siehe auch: Klimaverrücktheit, Klimaschwachsinn, Klimairrsinn
+Häufige Kollokationen: 'Deutschland', 'liegen' (Skeptiker) 
+__________________________________________________
+Klimawandler, der
+Der Begriff "Klimawandler" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 3 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.03 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Angela Merkel und Mojib Latif. Im Kontext von "Klimawandler" erfolgt die Nennung folgender Organisation(en): DPG (Skeptiker Korpus).
+__________________________________________________
+Klimawarner, der
+Der Begriff "Klimawarner" bezeichnet eine Person, die eine Haltung zum Klimawandel einnimmt. Der Begriff wird in unserem Korpus 5 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.06 für die Skeptiker und 0.0 für die Vertreter. Verwendet wird "Klimawarner" hierbei im Sinne einer Fremdzuschreibung von Seiten der Skeptiker. In 0% der Fälle wird die Verwendung als sarkatisch eingestuft. In unserem Korpus Sample ist der Begriff tendenziell neutral konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Eckart von Hirschhausen und Angela Merkel. Im Kontext von "Klimawarner" erfolgt die Nennung folgender Organisation(en): DIE LINKE, EIKE (Skeptiker Korpus).
+__________________________________________________
+Klimaweltuntergang, der
+Der Begriff "Klimaweltuntergang" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 4 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.04 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Luisa Neubauer und Greta Thunberg. Im Kontext von "Klimaweltuntergang" erfolgt die Nennung folgender Organisation(en): EIKE, PIK (Skeptiker Korpus).
+__________________________________________________
+Klimawendehals, der
+Der Begriff "Klimawendehals" bezeichnet eine Person, die eine Haltung zum Klimawandel einnimmt. Der Begriff wird in unserem Korpus 1 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.0 für die Skeptiker und 0.0 für die Vertreter. Verwendet wird "Klimawendehals" hierbei im Sinne einer Fremdzuschreibung von Seiten der Skeptiker. In 0% der Fälle wird die Verwendung als sarkatisch eingestuft. In unserem Korpus Sample ist der Begriff tendenziell negativ konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Harald Lesch. Im Kontext von "Klimawendehals" erfolgt die Nennung folgender Organisation(en): UN, ZDF (Skeptiker Korpus).
+__________________________________________________
+Klimawirklichkeit, die
+Der Begriff "Klimawirklichkeit" bezeichnet ein Konzept in Relation zum Klimawandel. Der Begriff wird in unserem Korpus 2 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.02 für die Skeptiker und 0.0 für die Vertreter. In unserem Korpus Sample ist der Begriff tendenziell neutral konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Harald Kunstmann. Im Kontext von "Klimawirklichkeit" erfolgt die Nennung folgender Organisation(en): BR, Bayerischen Landtag (Skeptiker Korpus).
+__________________________________________________
+Klimazar, der
+Der Begriff "Klimazar" bezeichnet eine Person, die eine Haltung zum Klimawandel einnimmt. Der Begriff wird in unserem Korpus 2 Mal von den Klimaforschungsskeptikern und 0 Mal von den Klimaforschungsvertretern verwendet. Auf den gesamten Korpus gesehen entspricht das einer relativen Häufigkeit (TF-IDF) von 0.02 für die Skeptiker und 0.0 für die Vertreter. Verwendet wird "Klimazar" hierbei im Sinne einer Fremdzuschreibung von Seiten der Skeptiker. In 50% der Fälle wird die Verwendung als sarkatisch eingestuft. In unserem Korpus Sample ist der Begriff tendenziell neutral konnotiert. Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) Barack Obama und Joe Biden. Im Kontext von "Klimazar" erfolgt die Nennung folgender Organisation(en): Weltbank (Skeptiker Korpus).
+Häufige Kollokationen: 'John' (Skeptiker) 
+__________________________________________________

@@ -19,15 +19,15 @@ str_sent =  """ In unserem Korpus Sample ist der Begriff tendenziell {SENTIMENT}
 #str_attr_con = """ Hierbei wird „{COMPOUND}“ von Seiten der Skeptiker im Sinne einer {CON_ATTRIBUTION}""" #(verwendet)
 #str_attr_pro = """ und von Vertretern als {PRO_ATTRIBUTION} verwendet."""
 
-str_attr = """ Verwendet wird "{COMPOUND}" hierbei im Sinne einer {ATTRIBUTION} """
-str_sarcasm = """In {SARCASM}"""
+str_attr = """ Verwendet wird "{COMPOUND}" hierbei im Sinne einer {ATTRIBUTION}"""
+str_sarcasm = """ In {SARCASM}"""
 
 str_mods_pro = """ Im Subdiskurs der Klimaforschungsvertreter wird der Begriff von Wörtern wie {PRO_MODS} modifiziert.""" 
 str_mods_con = """ Modifizierer wie {CON_MODS} treten häufig auf, um den Begriff im Subdiskurs der Klimaforschungsskeptiker näher zu beschreiben.""" 
 
-str_pers = """ Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en)"""
-str_pers_con = """ {CON_PERS}"""
-str_pers_pro = """ der Vertreter Korpus {PRO_PERS}"""
+str_pers = """ Im Zusammenhang mit dem Begriff erwähnt"""
+str_pers_con = """ der Skeptiker Korpus die Person(en) {CON_PERS}"""
+str_pers_pro = """ der Vertreter Korpus die Person(en) {PRO_PERS}"""
 #str_pers_con = """ Im Zusammenhang mit dem Begriff erwähnt der Skeptiker Korpus die Person(en) {CON_PERS}"""
 #str_pers_pro = """ und der Vertreter Korpus die Person(en) {PRO_PERS}."""
 

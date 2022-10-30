@@ -3,7 +3,7 @@ klimaaktivismus;action
 klimaaktivistin;person
 klimaalarmist;person
 klimaapokalyptiker;person
-klimaaufschrei;abstraction
+klimaaufschrei;action
 klimabesoffenheit;abstraction
 klimabewegtheit;abstraction
 klimadonna;person
@@ -15,8 +15,8 @@ klimaglaubenslehre;abstraction
 klimagöttin;person
 klimaherausforderung;abstraction
 klimahoax;abstraction
-klimahysteriker;person
 klimahüpfer;person
+klimahysteriker;person
 klimakaiserin;person
 klimakamarilla;group
 klimakatastrophentheorie;abstraction
@@ -27,14 +27,15 @@ klimakonsortium;group
 klimakreationismus;abstraction
 klimaleidenschaftlichkeit;abstraction
 klimaleugner;person
-klimaleugnung;abstraction
+klimaleugnung;action
 klimalösegeld;abstraction
+klimamacher;person
 klimamahnwache;abstraction
 klimamärchenonkel;person
 klimanotstandsregierung;group
 klimapanikmache;action
-klimapropagandafilm;abstraction
 klimapäpstin;person
+klimapropagandafilm;abstraction
 klimarealist;person
 klimaretterin;person
 klimaschänder;person
@@ -42,8 +43,8 @@ klimaskeptikerin;person
 klimaskeptizismus;abstraction
 klimataliban;group
 klimatraumatisierung;action
+klimaüberhitzung;abstraction
 klimaverblödung;abstraction
 klimaverdummung;abstraction
 klimawarner;person
 klimazunft;abstraction
-klimaüberhitzung;abstraction
