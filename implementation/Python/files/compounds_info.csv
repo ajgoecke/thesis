@@ -72,7 +72,7 @@ klimaglaube,glaube,"['glaubens', 'glaube', 'glauben']",glaube,m,"['klimaglaubens
 klimaglaubensbekenntnis,glaubensbekenntnis,"['glaubensbekenntnissen', 'glaubensbekenntnisses', 'glaubensbekenntnisse', 'glaubensbekenntnis']",glaubensbekenntnis,n,"['klimaglaubensbekenntnissen', 'klimaglaubensbekenntnisses', 'klimaglaubensbekenntnisse', 'klimaglaubensbekenntnis']"
 klimaglaubenslehre,glaubenslehre,"['glaubenslehre', 'glaubenslehren']",glaubenslehre,f,"['klimaglaubenslehre', 'klimaglaubenslehren']"
 klimagläubigkeit,gläubigkeit,['gläubigkeit'],gläubigkeit,f,['klimagläubigkeit']
-klimagnom,gnom,"['gnome', 'gnoms', 'gnomen', 'gnom']",gnom,,"['klimagnome', 'klimagnoms', 'klimagnomen', 'klimagnom']"
+klimagnom,gnom,"['gnome', 'gnoms', 'gnomen', 'gnom']",gnom,m,"['klimagnome', 'klimagnoms', 'klimagnomen', 'klimagnom']"
 klimagott,gott,"['gott', 'gotts', 'götter', 'göttern', 'gotte', 'gottes']",gott,m,"['klimagott', 'klimagotts', 'klimagötter', 'klimagöttern', 'klimagotte', 'klimagottes']"
 klimagunst,gunst,['gunst'],gunst,f,['klimagunst']
 klimagöttin,göttin,"['göttin', 'göttinnen']",göttin,f,"['klimagöttin', 'klimagöttinnen']"
@@ -229,7 +229,7 @@ klimaverstand,verstand,"['verstands', 'verstande', 'verstandes', 'verstand']",ve
 klimaverteidigung,verteidigung,"['verteidigung', 'verteidigungen']",verteidigung,f,"['klimaverteidigung', 'klimaverteidigungen']"
 klimaverweigerung,verweigerung,"['verweigerungen', 'verweigerung']",verweigerung,f,"['klimaverweigerungen', 'klimaverweigerung']"
 klimaverwirrung,verwirrung,"['verwirrungen', 'verwirrung']",verwirrung,f,"['klimaverwirrungen', 'klimaverwirrung']"
-klimavirus,virus,"['virus', 'viren']",virus,,"['klimavirus', 'klimaviren']"
+klimavirus,virus,"['virus', 'viren']",virus,n,"['klimavirus', 'klimaviren']"
 klimawahn,wahn,"['wahnen', 'wahne', 'wahnes', 'wahns', 'wahn']",wahn,m,"['klimawahnen', 'klimawahne', 'klimawahnes', 'klimawahns', 'klimawahn']"
 klimawahnsinn,wahnsinn,"['wahnsinn', 'wahnsinns']",wahnsinn,m,"['klimawahnsinn', 'klimawahnsinns']"
 klimawandler,wandler,"['wandler', 'wandlern', 'wandlers']",wandler,m,"['klimawandler', 'klimawandlern', 'klimawandlers']"
