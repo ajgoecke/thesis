@@ -1,6 +1,8 @@
 ---
 title: "Corpus-Based Methods"
-output: html_notebook
+output:
+  html_document:
+    df_print: paged
 ---
 
 # 0. Requirements
@@ -318,6 +320,16 @@ dfm_complete_freq <- dfm(complete) %>%
 set.seed(3) # set seed for reproducibility
 textplot_wordcloud(dfm_complete_freq, comparison = TRUE, max_words = 250) # plot wordcloud
 ```
+```{r}
+# save data frame with frequencies 
+dfm_complete_df <- dfm_complete_freq %>% 
+                  convert(to = "data.frame") %>%
+                  t() # transpose data frame
+
+#write.csv(dfm_complete_df,"../output/plots/tf_complete.csv", row.names = TRUE)
+```
+
+
 # 3.1 Compute TF-IDF Scores
 Next, we compute the TF-IDF scores of the glossary terms. For this, we create DFMs for each subdiscourse. This is necessary to compute the TF-IDF scores for each term with respect to each of the corpora.  
 ```{r}
@@ -393,19 +405,5 @@ plot8 <- ggplot(freqs) +
 plot8+labs(colour="Group")
 
 # save to png 
-#ggsave("/Users/anna/Documents/uni/thesis/plots/comparison_tfidf.png", dpi=300, dev='png', height=6, width=11, units="in")
+#ggsave("../../output/plots/comparison_tfidf.png", dpi=300, dev='png', height=6, width=11, units="in")
 ```
-### DO THIS AND THEN SAVE WORKSPACE!!!!
-```{r}
-sp_c2022_tokens <- tokens_replace(sp_c2022_tokens, pattern="klimaglaubenslehr", replacement="klimaglaubenslehre", valuetype = "fixed")
-sp_c2022_tokens <- tokens_replace(sp_c2022_tokens, pattern="klimakarawan", replacement="klimakarawane", valuetype = "fixed")
-sp_c2022_tokens <- tokens_replace(sp_c2022_tokens, pattern="klimazeug", replacement="klimazeugs", valuetype = "fixed")
-sp_c2022_tokens <- tokens_replace(sp_c2022_tokens, pattern="klimawendehal", replacement="klimawendehals", valuetype = "fixed")
-sp_p2022_tokens <- tokens_replace(sp_p2022_tokens, pattern="klimaglaubenslehr", replacement="klimaglaubenslehre", valuetype = "fixed")
-sp_p2022_tokens <- tokens_replace(sp_p2022_tokens, pattern="klimakarawan", replacement="klimakarawane", valuetype = "fixed")
-sp_p2022_tokens <- tokens_replace(sp_p2022_tokens, pattern="klimazeug", replacement="klimazeugs", valuetype = "fixed")
-sp_p2022_tokens <- tokens_replace(sp_p2022_tokens, pattern="klimawendehal", replacement="klimawendehals", valuetype = "fixed")
-```
-
-
-
