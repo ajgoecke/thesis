@@ -1,6 +1,6 @@
-# Semi-Automatic Definition Phrasing for a Climate Change Discourse Glossary
+# Semi-Automated Definition Phrasing for a Climate Change Discourse Glossary
 
-Data and code for Anna-Janina Goeckes's 2022 Universität Potsdam MSc thesis "Semi-Automatic Definition Phrasing for a Climate Change Discourse Glossary" under the supervision of Prof. Dr. Manfred Stede and Prof. Dr. Birgit Schneider.
+Data and code for Anna-Janina Goeckes's 2022 Universität Potsdam MSc thesis "Semi-Automated Definition Phrasing - Creating a Discourse Glossary for Climate Change Compounds" under the supervision of Prof. Dr. Manfred Stede and Prof. Dr. Birgit Schneider.
 
 ## General Information
 
