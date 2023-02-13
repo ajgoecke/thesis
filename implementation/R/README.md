@@ -3,15 +3,15 @@
 This material appears in Section 5 `Implementation`.
 
 ## Subdirectories:
-- `workspace`: contains the R workspace (and all variables) that is created within the notebooks in `notebooks/`, this can be loaded into R to run the code without waiting periods.
+- `workspace`: contains the R workspace (and all variables) that is created within the notebooks in `notebooks/`, this can be loaded into R to run the code without waiting periods. Please note that the workspace files are only available on the physical usb stick containing the implementation files. The file size exceeds 100mb and cannot be uploaded to GitHub.
 - `notebooks`: contains all R scripts that were created in section 5
 - `output`: contains the output files that were generated in the `notebooks/thesis_corpusmethods.Rmd` notebook
 - `corpora`: contains the current version of the corpora of both subdiscourses in .rds format
 
 
 ## Scripts:
-- `notebooks/thesis_corpusmethods.Rmd`: Section 5.2 
-- `notebooks/thesis_preprocessing.Rmd`: Section 5.1.2
+- `notebooks/corpusmethods.Rmd`: Section 5.2 
+- `notebooks/preprocessing.Rmd`: Section 5.1.2
 
 ## Files:
 
@@ -26,8 +26,8 @@ In `output/`:
 - `top_colls_pro_cleaned.csv`: contains the manually cleaned collocations for the P2022 corpus
 
 In `workspace/`: 
-- `corpus_methods.RData`: R workspace for the notebook `notebooks/thesis_corpusmethods.Rm`
-- `preprocessing.RData`: R workspace for the notebook `notebooks/thesis_preprocessing.Rmd`
+- `corpusmethods.RData`: R workspace for the notebook `notebooks/corpusmethods.Rm`
+- `preprocessing.RData`: R workspace for the notebook `notebooks/preprocessing.Rmd`
 
 ## Requirements
 To be able to fully run all the notebooks, please make sure the following libraries are installed:
