@@ -6,7 +6,7 @@ output:
 ---
 
 # 0. Requirements
-Note: Please load the workspace in the directory `implementation/R/workspace/corpus_methods.RData` to run the following code and re-use the previously created variables (to avoid long running times). Furthermore, the following libraries must be installed and loaded:
+Note: Please load the workspace in the directory `implementation/R/workspace/corpus_methods.RData` to run the following code and re-use the previously created variables (to avoid long running times). Note that the workspace files are only available on the usb stick due to the big file size. Furthermore, the following libraries must be installed and loaded:
 ```{r message=FALSE, warning=FALSE}
 # intall necessary packages
 #install.packages("quanteda")
