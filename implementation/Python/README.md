@@ -22,22 +22,27 @@ This material appears in sections 5 to 7.
 In `files/`:
 - `compounds_info:csv`: output of the `notebooks/preprocessing.ipynb` notebook. Contains the list of compounds and the associated word forms and lemmas.
 - `wordlist.txt`: list of glossary terms.
-- `glossary.json`: current json file of the glossary web app
-- `glossary_updated.json`: output of the `notebooks/json.ipynb` notebook. Contains the json file of the glossary web app including the full definition texts
+- `glossary.json`: current json file of the glossary web app.
+- `glossary_updated.json`: output of the `notebooks/json.ipynb` notebook. Contains the json file of the glossary web app including the full definition texts.
 
 In `evaluation/`:
 - `compounds_sentiment.csv`: manual annotation of the sentiment scores which were used to obtain the connotation of terms.
-- `con_sentiment_diff_manual.csv`: manual annotation of the C2022 compounds that obtained different sentiment scores from the two sentiment. models
-- `pro_sentiment_diff_manual.csv`: manual annotation of the P2022 compounds that obtained different sentiment scores from the two sentiment. models
+- `con_sentiment_diff_manual.csv`: manual annotation of the C2022 compounds that obtained different sentiment scores from the two sentiment models.
+- `pro_sentiment_diff_manual.csv`: manual annotation of the P2022 compounds that obtained different sentiment scores from the two sentiment models.
 - `concept_manual`: manual annotation of the categories for the `persons` and `group` compounds (see paper section 5.3.4.1).
-- `attr_manual.csv`: manual annotation of attribution for a sample of compounds (see section 6)
+- `attr_manual.csv`: manual annotation of `attr_sample.csv` (see section 6)
 - `declension_forms.csv`: manual annotated declension forms, used for `notebooks/preprocessing.ipynb` notebook. 
 - `persons_cleaned.csv`: table of unique person entities that were cleaned manually.
 - `organisations_cleaned.csv`: table of unique organisation entities that were cleaned manually.
 - `sentiment_comparison.csv`: table of sentiment labels for each model and discourse group and comparison of the results.
+- `persons.txt`: full list of extracted person entities.
+- `organisations.txt`: full list of extracted organisation entities.
+- `modifiers_cleaned`: cleaned list of modifiers.
+- `definition_texts.txt`: text file containing the final definition texts.
 
 In `output/`:
-- `knowledge_base.csv`: final knowledge base of all glossary terms.
+- `knowledge_base.csv`: output of `textmining.ipynb`, final knowledge base of the glossary terms.
+- `knowledge_base_updated.csv`: output of `definitions.ipynb` notebook. Contains the final information pieces that are used for the definition phrasing part and the final definition texts. 
 - `info.zip`: zip file that contains `con_info.csv` and `pro_info.csv` (since those files were to big to be pushed onto GitHub. Please unzip first to be able to fully run all Python notebooks in `notebooks`. 
 - `con_info.csv`: contains the contexts of all compounds occuring in the C2022 corpus and the output of the text mining methods that were applied to it. 
 - `pro_info.csv`: contains the contexts of all compounds occuring in the P2022 corpus and the output of the text mining methods that were applied to it. 
